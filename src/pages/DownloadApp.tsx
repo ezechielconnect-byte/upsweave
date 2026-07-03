@@ -32,7 +32,7 @@ export default function DownloadApp({ onNavigate }: DownloadAppProps) {
             className="text-center mb-16 space-y-6"
           >
             <h1 className="text-5xl md:text-6xl font-bold tracking-tight text-slate-900">
-              <LogoText>Téléchargez UpTaskers</LogoText>
+              <LogoText>Téléchargez Uptaskers</LogoText>
             </h1>
             <p className="text-xl md:text-2xl text-slate-500 max-w-2xl mx-auto font-medium">
               L'application indispensable pour trouver des professionnels ou

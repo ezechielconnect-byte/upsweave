@@ -2,7 +2,7 @@ import React from 'react';
 
 export function renderWithLogo(text: string) {
   if (!text) return text;
-  const parts = text.split(/UpTaskers|TASKup/);
+  const parts = text.split(/Uptaskers|TASKup/);
   if (parts.length === 1) return text;
   
   return (
@@ -13,7 +13,7 @@ export function renderWithLogo(text: string) {
           {i !== parts.length - 1 && (
             <img 
               src="/uptaskers.png" 
-              alt="UpTaskers" 
+              alt="Uptaskers" 
               className="inline-block h-[3.5em] w-auto object-contain align-middle mx-1.5 drop-shadow-sm" 
               style={{ transform: 'translateY(-0.15em)' }}
             />

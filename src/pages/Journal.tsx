@@ -18,7 +18,7 @@ export default function Journal({
       <div className="max-w-7xl mx-auto px-6">
         <div className="mb-16 mt-8">
           <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight mb-4 text-sky-950">
-            <LogoText>{t("Journal UpTaskers")}</LogoText>
+            <LogoText>{t("Journal Uptaskers")}</LogoText>
           </h1>
           <p className="text-xl text-sky-700 max-w-2xl">
             {t("Guides, astuces et conseils pour clients et professionnels")}

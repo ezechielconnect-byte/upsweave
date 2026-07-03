@@ -142,7 +142,7 @@ export default function ContactPage({
                 </h2>
                 <p className="text-slate-300 text-lg font-medium mb-10 leading-relaxed">
                   <LogoText>{t(
-                    "Emportez UpTaskers partout avec vous. Gérez vos projets, échangez avec des pros et suivez l'avancement de vos demandes depuis votre mobile.",
+                    "Emportez Uptaskers partout avec vous. Gérez vos projets, échangez avec des pros et suivez l'avancement de vos demandes depuis votre mobile.",
                   )}</LogoText>
                 </p>
 

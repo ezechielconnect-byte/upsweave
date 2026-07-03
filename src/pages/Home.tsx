@@ -135,7 +135,7 @@ export default function Home({
               className="text-base sm:text-lg md:text-xl text-slate-300 leading-relaxed font-medium mb-8 md:mb-10 max-w-lg"
             >
               <LogoText>{t(
-                "Notre plateforme révolutionne la mise en relation entre professionnels et clients. Que vous ayez besoin d'un expert pour une mission ponctuelle ou que vous cherchiez à développer votre clientèle, UpTaskers crée un environnement de confiance.",
+                "Notre plateforme révolutionne la mise en relation entre professionnels et clients. Que vous ayez besoin d'un expert pour une mission ponctuelle ou que vous cherchiez à développer votre clientèle, Uptaskers crée un environnement de confiance.",
               )}</LogoText>
             </motion.p>
 
@@ -219,7 +219,7 @@ export default function Home({
                   },
                   {
                     icon: Target,
-                    title: t("À propos de UpTaskers"),
+                    title: t("À propos de Uptaskers"),
                     desc: t("Notre mission et valeurs"),
                     path: "/offer",
                   },
@@ -280,7 +280,7 @@ export default function Home({
             <div className="md:w-7/12 max-w-2xl w-full text-center md:text-left">
               <p className="text-lg md:text-xl text-sky-700 font-medium leading-relaxed mb-6 md:mb-8">
                 <LogoText>{t(
-                  "La vocation de UpTaskers est simple : vous faire gagner du temps en vous offrant un accès instantané aux meilleurs talents de votre région.",
+                  "La vocation de Uptaskers est simple : vous faire gagner du temps en vous offrant un accès instantané aux meilleurs talents de votre région.",
                 )}</LogoText>
               </p>
               <p className="text-lg md:text-xl text-sky-700 font-medium leading-relaxed mb-8 md:mb-12">
@@ -290,8 +290,8 @@ export default function Home({
               </p>
               <div className="relative rounded-[2rem] md:rounded-[2.5rem] overflow-hidden border-[6px] md:border-8 border-white shadow-[0_20px_60px_-15px_rgba(2,132,199,0.3)] bg-white ring-1 ring-slate-900/5 group">
                 <img
-                  src="/taskup_logo_office.png"
-                  alt="UpTaskers Base Workspace"
+                  src="/upsweave_office.jpg"
+                  alt="Uptaskers Base Workspace"
                   className="w-full h-[250px] md:h-[400px] object-cover transition-transform duration-700 ease-out group-hover:scale-105"
                 />
               </div>
@@ -356,7 +356,7 @@ export default function Home({
               </h3>
               <p className="text-slate-600 leading-relaxed">
                 <LogoText>{t(
-                  "Chaque prestataire sur UpTaskers passe par un processus de vérification d'identité approfondi pour garantir votre sécurité.",
+                  "Chaque prestataire sur Uptaskers passe par un processus de vérification d'identité approfondi pour garantir votre sécurité.",
                 )}</LogoText>
               </p>
             </motion.div>
@@ -430,7 +430,7 @@ export default function Home({
           >
             <div className="mb-8 md:mb-12">
               <h2 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3 md:mb-4 text-slate-800 text-center">
-                <LogoText>{t("Journal UpTaskers")}</LogoText>
+                <LogoText>{t("Journal Uptaskers")}</LogoText>
               </h2>
               <p className="text-lg sm:text-xl text-slate-600 mb-6 md:mb-8 max-w-2xl mx-auto text-center">
                 {t(
@@ -530,7 +530,7 @@ export default function Home({
                 <div className="absolute top-[-30px] sm:top-[-35px] left-0 right-0 bottom-[-30px] sm:bottom-[-35px]">
                   <img
                     src="/mobile_app_1.jpeg"
-                    alt="Application Mobile UpTaskers"
+                    alt="Application Mobile Uptaskers"
                     loading="lazy"
                     className="w-full h-full object-cover object-top"
                   />
@@ -554,7 +554,7 @@ export default function Home({
                 <div className="absolute top-[-30px] sm:top-[-35px] left-0 right-0 bottom-[-30px] sm:bottom-[-35px]">
                   <img
                     src="/mobile_app_2.jpeg"
-                    alt="Application Mobile UpTaskers"
+                    alt="Application Mobile Uptaskers"
                     loading="lazy"
                     className="w-full h-full object-cover object-top"
                   />

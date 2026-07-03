@@ -30,13 +30,13 @@ export default function Privacy({
       id: "introduction",
       icon: Shield,
       title: t("1. Introduction"),
-      content: t("Studio UpTaskers est une plateforme de mise en relation de talents et d'offres. Cette politique explique comment nous collectons, utilisons et protégeons vos informations."),
+      content: t("Studio Upsweave est une plateforme de mise en relation de talents et d'offres. Cette politique explique comment nous collectons, utilisons et protégeons vos informations."),
     },
     {
       id: "device-permissions",
       icon: Eye,
       title: t("2. Autorisations de l'appareil"),
-      content: t("UpTaskers peut demander certaines autorisations afin de fournir ses fonctionnalités :"),
+      content: t("Upsweave peut demander certaines autorisations afin de fournir ses fonctionnalités :"),
       list: [
         t("Localisation : pour afficher les missions et prestataires à proximité."),
         t("Caméra : pour ajouter une photo de profil ou des preuves de mission."),
@@ -49,7 +49,7 @@ export default function Privacy({
       id: "app-type",
       icon: TrendingUp,
       title: t("3. Type d'Application"),
-      content: t("Studio UpTaskers est un réseau professionnel et un gestionnaire de tâches. Il facilite la publication d'annonces et la recherche de profils qualifiés."),
+      content: t("Studio Upsweave est un réseau professionnel et un gestionnaire de tâches. Il facilite la publication d'annonces et la recherche de profils qualifiés."),
       highlight: true,
     },
     {
@@ -68,7 +68,7 @@ export default function Privacy({
       id: "payments",
       icon: Lock,
       title: t("5. Paiements et transactions"),
-      content: t("UpTaskers peut utiliser des prestataires de paiement tiers sécurisés pour traiter les transactions. Les informations de paiement sont traitées de manière sécurisée et conformément aux exigences applicables."),
+      content: t("Upsweave peut utiliser des prestataires de paiement tiers sécurisés pour traiter les transactions. Les informations de paiement sont traitées de manière sécurisée et conformément aux exigences applicables."),
     },
     {
       id: "data-usage",
@@ -115,7 +115,7 @@ export default function Privacy({
       id: "data-retention",
       icon: FileText,
       title: t("11. Conservation des données"),
-      content: t("Les données personnelles sont conservées aussi longtemps que nécessaire pour fournir les services de UpTaskers, respecter nos obligations légales, résoudre les litiges et appliquer nos accords."),
+      content: t("Les données personnelles sont conservées aussi longtemps que nécessaire pour fournir les services de Upsweave, respecter nos obligations légales, résoudre les litiges et appliquer nos accords."),
     },
     {
       id: "account-deletion",
@@ -127,7 +127,7 @@ export default function Privacy({
       id: "your-rights",
       icon: FileText,
       title: t("13. Vos Droits"),
-      content: t("En tant qu'utilisateur de Studio UpTaskers, vous avez les droits suivants :"),
+      content: t("En tant qu'utilisateur de Studio Upsweave, vous avez les droits suivants :"),
       list: [
         t("Accéder à vos données"),
         t("Mettre à jour vos informations"),
@@ -351,7 +351,7 @@ export default function Privacy({
                     </div>
                   </div>
                   <p className="text-lg text-slate-700 leading-relaxed mb-8">
-                    <LogoText>{t("Studio UpTaskers a été conçu pour offrir un environnement sûr et transparent. Nous ne vendrons jamais vos données personnelles et mettons tout en oeuvre pour vous garantir une expérience professionnelle de haute qualité.")}</LogoText>
+                    <LogoText>{t("Studio Upsweave a été conçu pour offrir un environnement sûr et transparent. Nous ne vendrons jamais vos données personnelles et mettons tout en oeuvre pour vous garantir une expérience professionnelle de haute qualité.")}</LogoText>
                   </p>
                   <div className="flex flex-wrap gap-4">
                     <div className="flex items-center gap-2 bg-white px-4 py-2 rounded-full border border-slate-200 shadow-sm">

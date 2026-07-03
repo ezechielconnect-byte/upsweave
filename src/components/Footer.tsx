@@ -18,7 +18,7 @@ const footerCol1 = [
       "Explorez nos catégories",
       "Avantages",
       "Ressources",
-      "Journal UpTaskers",
+      "Journal Uptaskers",
     ],
   },
 ];
@@ -26,14 +26,14 @@ const footerCol1 = [
 const footerCol2 = [
   {
     title: "CONFIANCE",
-    items: ["Avis clients", "Vérification des profils", "Garantie UpTaskers"],
+    items: ["Avis clients", "Vérification des profils", "Garantie Uptaskers"],
   },
 ];
 
 const footerCol3 = [
   {
     title: "ENTREPRISE",
-    items: ["À propos de UpTaskers", "Nous contacter", "Support client"],
+    items: ["À propos de Uptaskers", "Nous contacter", "Support client"],
   },
 ];
 
@@ -71,14 +71,14 @@ const renderFooterLinks = (
                   onNavigate("/find");
                 else if (item === "Avantages") onNavigate("/avantages");
                 else if (item === "Ressources") onNavigate("/ressources");
-                else if (item === "Journal UpTaskers")
+                else if (item === "Journal Uptaskers")
                   window.scrollTo({
                     top: document.body.scrollHeight,
                     behavior: "smooth",
                   });
                 else if (item === "Support client" || item === "Nous contacter")
                   onNavigate("/contact");
-                else if (item === "À propos de UpTaskers") onNavigate("/offer");
+                else if (item === "À propos de Uptaskers") onNavigate("/offer");
                 else if (item === "Conditions d'utilisation")
                   onNavigate("/terms");
                 else if (item === "Politique de confidentialité")
@@ -87,7 +87,7 @@ const renderFooterLinks = (
                 else if (item === "Avis clients") onNavigate("/p/avis-clients");
                 else if (item === "Vérification des profils")
                   onNavigate("/p/verification");
-                else if (item === "Garantie UpTaskers") onNavigate("/p/garantie");
+                else if (item === "Garantie Uptaskers") onNavigate("/p/garantie");
                 else {
                   // Fallback to generic page
                   const slug = item
@@ -148,7 +148,7 @@ export default function Footer({
         <div className="md:col-span-4 lg:col-span-3 flex flex-col items-center md:items-start text-center md:text-left pr-0 lg:pr-8">
           <div className="space-y-4 text-[12.5px] leading-relaxed text-blue-100 mt-2">
             <p>
-              <LogoText><strong className="text-white">UpTaskers</strong></LogoText>{" "}
+              <LogoText><strong className="text-white">Uptaskers</strong></LogoText>{" "}
               {t(
                 "est la plateforme de référence pour trouver des prestataires vérifiés et qualifiés.",
               )}
@@ -217,7 +217,7 @@ export default function Footer({
             </div>
 
             <p className="mt-4 pt-6 border-t border-white/20 text-blue-200">
-              <LogoText>© {new Date().getFullYear()} UpTaskers.</LogoText>
+              <LogoText>© {new Date().getFullYear()} Uptaskers.</LogoText>
               <br />
               {t("Tous droits réservés.")}
             </p>

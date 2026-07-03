@@ -97,7 +97,7 @@ export default function Payment({
                 </div>
                 <div className="flex justify-between text-slate-700">
                   <span>
-                    Frais de service sécurisé (<LogoText><strong>UpTaskers</strong></LogoText>)
+                    Frais de service sécurisé (<LogoText><strong>Uptaskers</strong></LogoText>)
                   </span>
                   <span>0,00 €</span>
                 </div>
@@ -176,7 +176,7 @@ export default function Payment({
                   <Lock className="w-5 h-5 text-blue-400 shrink-0 mt-0.5" />
                   <p className="text-xs text-blue-200/80 leading-relaxed">
                     Vos informations de paiement sont chiffrées selon les normes
-                    PCI-DSS. <LogoText><strong>UpTaskers</strong></LogoText> retient les fonds jusqu'à
+                    PCI-DSS. <LogoText><strong>Uptaskers</strong></LogoText> retient les fonds jusqu'à
                     ce que vous validiez la fin de la mission.
                   </p>
                 </div>

@@ -46,15 +46,15 @@ export default function ProviderDashboard({
             </div>
 
             <h1 className="text-4xl md:text-6xl font-extrabold mb-6 tracking-tight text-slate-900">
-              {t("Découvrez UpTaskers").split(" ")[0]}{" "}
+              {t("Découvrez Uptaskers").split(" ")[0]}{" "}
               <span className="inline-block align-baseline">
-                <LogoText>UpTaskers</LogoText>
+                <LogoText>Uptaskers</LogoText>
               </span>
             </h1>
 
             <p className="text-lg text-slate-600 leading-relaxed font-medium">
               <LogoText>{t(
-                "Bienvenue sur UpTaskers, une plateforme dédiée à la mise en relation entre particuliers, entreprises et professionnels qualifiés.",
+                "Bienvenue sur Uptaskers, une plateforme dédiée à la mise en relation entre particuliers, entreprises et professionnels qualifiés.",
               )}</LogoText>
             </p>
           </motion.div>

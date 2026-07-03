@@ -16,7 +16,7 @@ export default function GenericPage({
   const slugToKey: Record<string, string> = {
     "avis-clients": "Avis clients",
     "verification": "Vérification des profils",
-    "garantie": "Garantie UpTaskers",
+    "garantie": "Garantie Uptaskers",
   };
 
   // Convert slug back to the translation key, or format it nicely as fallback
@@ -55,7 +55,7 @@ export default function GenericPage({
 
         <div className="prose prose-invert max-w-none prose-p:text-slate-700 prose-p:leading-relaxed prose-headings:text-slate-900">
           <p className="text-xl text-slate-600 mb-8 font-medium">
-            <LogoText>{t("Bienvenue sur la page")} {t(titleKey)}. {t("Cette section de UpTaskers est actuellement en cours de développement.")}</LogoText>
+            <LogoText>{t("Bienvenue sur la page")} {t(titleKey)}. {t("Cette section de Uptaskers est actuellement en cours de développement.")}</LogoText>
           </p>
           <p className="text-lg">
             {t("Notre plateforme évolue continuellement pour vous offrir la meilleure expérience. Restez à l'écoute pour les mises à jour alors que nous construisons cette ressource complète.")}

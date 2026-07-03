@@ -5,7 +5,7 @@ const resources = {
   FR: {
     translation: {
       "Bienvenue sur la page": "Bienvenue sur la page",
-      "Cette section de UpTaskers est actuellement en cours de développement.": "Cette section de UpTaskers est actuellement en cours de développement.",
+      "Cette section de Uptaskers est actuellement en cours de développement.": "Cette section de Uptaskers est actuellement en cours de développement.",
       "Notre plateforme évolue continuellement pour vous offrir la meilleure expérience. Restez à l'écoute pour les mises à jour alors que nous construisons cette ressource complète.": "Notre plateforme évolue continuellement pour vous offrir la meilleure expérience. Restez à l'écoute pour les mises à jour alors que nous construisons cette ressource complète.",
 
       "Dernière mise à jour : 4 Juin 2026":
@@ -41,17 +41,17 @@ const resources = {
         "Contactez notre équipe responsable de la vie privée :",
       "Engagement de Confiance": "Engagement de Confiance",
       "Votre Sécurité Avant Tout": "Votre Sécurité Avant Tout",
-      "UpTaskers a été pensé et conçu pour vous offrir un environnement sûr et de confiance. Aucun compromis n'est fait avec vos données et votre confidentialité, pour que vous puissiez développer votre activité et recourir à des experts en toute sérénité.":
-        "UpTaskers a été pensé et conçu pour vous offrir un environnement sûr et de confiance. Aucun compromis n'est fait avec vos données et votre confidentialité, pour que vous puissiez développer votre activité et recourir à des experts en toute sérénité.",
+      "Uptaskers a été pensé et conçu pour vous offrir un environnement sûr et de confiance. Aucun compromis n'est fait avec vos données et votre confidentialité, pour que vous puissiez développer votre activité et recourir à des experts en toute sérénité.":
+        "Uptaskers a été pensé et conçu pour vous offrir un environnement sûr et de confiance. Aucun compromis n'est fait avec vos données et votre confidentialité, pour que vous puissiez développer votre activité et recourir à des experts en toute sérénité.",
       "Paiements Sécurisés": "Paiements Sécurisés",
       "Identités Vérifiées": "Identités Vérifiées",
       "Confidentialité Protégée": "Confidentialité Protégée",
       "1. Introduction": "1. Introduction",
-      "UpTaskers est la plateforme de référence pour la mise en relation entre professionnels qualifiés et clients. Cette politique explique comment nous recueillons, utilisons et protégeons vos informations personnelles.":
-        "UpTaskers est la plateforme de référence pour la mise en relation entre professionnels qualifiés et clients. Cette politique explique comment nous recueillons, utilisons et protégeons vos informations personnelles.",
+      "Uptaskers est la plateforme de référence pour la mise en relation entre professionnels qualifiés et clients. Cette politique explique comment nous recueillons, utilisons et protégeons vos informations personnelles.":
+        "Uptaskers est la plateforme de référence pour la mise en relation entre professionnels qualifiés et clients. Cette politique explique comment nous recueillons, utilisons et protégeons vos informations personnelles.",
       "2. Nature du Service": "2. Nature du Service",
-      "UpTaskers permet de trouver, de contacter et de travailler avec des experts dans de multiples domaines, en garantissant la sécurité des paiements et la qualité des échanges.":
-        "UpTaskers permet de trouver, de contacter et de travailler avec des experts dans de multiples domaines, en garantissant la sécurité des paiements et la qualité des échanges.",
+      "Uptaskers permet de trouver, de contacter et de travailler avec des experts dans de multiples domaines, en garantissant la sécurité des paiements et la qualité des échanges.":
+        "Uptaskers permet de trouver, de contacter et de travailler avec des experts dans de multiples domaines, en garantissant la sécurité des paiements et la qualité des échanges.",
       "3. Données Collectées": "3. Données Collectées",
       "Nous pouvons recueillir les données suivantes :":
         "Nous pouvons recueillir les données suivantes :",
@@ -83,8 +83,8 @@ const resources = {
         "Vos données personnelles sont stockées sur des serveurs hautement sécurisés",
       "Les transactions financières (paiement) sont cryptées de bout en bout (PCI-DSS)":
         "Les transactions financières (paiement) sont cryptées de bout en bout (PCI-DSS)",
-      "Authentification sécurisée pour protéger l'accès à votre compte UpTaskers":
-        "Authentification sécurisée pour protéger l'accès à votre compte UpTaskers",
+      "Authentification sécurisée pour protéger l'accès à votre compte Uptaskers":
+        "Authentification sécurisée pour protéger l'accès à votre compte Uptaskers",
       "6. Partage des Données": "6. Partage des Données",
       "Nous ne vendons en aucun cas vos données personnelles. Elles peuvent être partagées dans les cas strictement nécessaires suivants :":
         "Nous ne vendons en aucun cas vos données personnelles. Elles peuvent être partagées dans les cas strictement nécessaires suivants :",
@@ -95,8 +95,8 @@ const resources = {
       "Afin de se conformer à des obligations légales en vigueur":
         "Afin de se conformer à des obligations légales en vigueur",
       "7. Vos Droits": "7. Vos Droits",
-      "En tant qu'utilisateur de UpTaskers, vous disposez des droits suivants (conformément à la loi ivoirienne sur la protection des données à caractère personnel) :":
-        "En tant qu'utilisateur de UpTaskers, vous disposez des droits suivants (conformément à la loi ivoirienne sur la protection des données à caractère personnel) :",
+      "En tant qu'utilisateur de Uptaskers, vous disposez des droits suivants (conformément à la loi ivoirienne sur la protection des données à caractère personnel) :":
+        "En tant qu'utilisateur de Uptaskers, vous disposez des droits suivants (conformément à la loi ivoirienne sur la protection des données à caractère personnel) :",
       "Accéder à vos données et en demander la copie":
         "Accéder à vos données et en demander la copie",
       "Rectifier ou mettre à jour vos informations inexactes":
@@ -117,11 +117,11 @@ const resources = {
       "Propriété Intellectuelle": "Propriété Intellectuelle",
       "La structure générale du site, ainsi que les textes, images animées ou non et tous les éléments composant le site sont la propriété exclusive de":
         "La structure générale du site, ainsi que les textes, images animées ou non et tous les éléments composant le site sont la propriété exclusive de",
-      "Toute reproduction, représentation, modification, publication ou adaptation de tout ou partie des éléments du site est interdite sans l'autorisation écrite préalable de UpTaskers.":
-        "Toute reproduction, représentation, modification, publication ou adaptation de tout ou partie des éléments du site est interdite sans l'autorisation écrite préalable de UpTaskers.",
+      "Toute reproduction, représentation, modification, publication ou adaptation de tout ou partie des éléments du site est interdite sans l'autorisation écrite préalable de Uptaskers.":
+        "Toute reproduction, représentation, modification, publication ou adaptation de tout ou partie des éléments du site est interdite sans l'autorisation écrite préalable de Uptaskers.",
       Responsabilité: "Responsabilité",
-      "est une plateforme de mise en relation entre clients et prestataires. UpTaskers agit uniquement comme intermédiaire technique et ne réalise pas les prestations proposées sur la plateforme. En conséquence, UpTaskers ne peut être tenue responsable de la qualité, de l'exécution ou de la non-exécution des services fournis par les prestataires.":
-        "est une plateforme de mise en relation entre clients et prestataires. UpTaskers agit uniquement comme intermédiaire technique et ne réalise pas les prestations proposées sur la plateforme. En conséquence, UpTaskers ne peut être tenue responsable de la qualité, de l'exécution ou de la non-exécution des services fournis par les prestataires.",
+      "est une plateforme de mise en relation entre clients et prestataires. Uptaskers agit uniquement comme intermédiaire technique et ne réalise pas les prestations proposées sur la plateforme. En conséquence, Uptaskers ne peut être tenue responsable de la qualité, de l'exécution ou de la non-exécution des services fournis par les prestataires.":
+        "est une plateforme de mise en relation entre clients et prestataires. Uptaskers agit uniquement comme intermédiaire technique et ne réalise pas les prestations proposées sur la plateforme. En conséquence, Uptaskers ne peut être tenue responsable de la qualité, de l'exécution ou de la non-exécution des services fournis par les prestataires.",
 
       "Notre mission": "Notre mission",
       Abonnements: "Abonnements",
@@ -141,8 +141,8 @@ const resources = {
       "Se connecter": "Se connecter",
       "Connectez-vous avec": "Connectez-vous avec",
       "l'excellence.": "l'excellence.",
-      "Notre plateforme révolutionne la mise en relation entre professionnels et clients. Que vous ayez besoin d'un expert pour une mission ponctuelle ou que vous cherchiez à développer votre clientèle, UpTaskers crée un environnement de confiance.":
-        "Notre plateforme révolutionne la mise en relation entre professionnels et clients. Que vous ayez besoin d'un expert pour une mission ponctuelle ou que vous cherchiez à développer votre clientèle, UpTaskers crée un environnement de confiance.",
+      "Notre plateforme révolutionne la mise en relation entre professionnels et clients. Que vous ayez besoin d'un expert pour une mission ponctuelle ou que vous cherchiez à développer votre clientèle, Uptaskers crée un environnement de confiance.":
+        "Notre plateforme révolutionne la mise en relation entre professionnels et clients. Que vous ayez besoin d'un expert pour une mission ponctuelle ou que vous cherchiez à développer votre clientèle, Uptaskers crée un environnement de confiance.",
       Commencer: "Commencer",
       "Une mise en relation rapide et simplifiée.":
         "Une mise en relation rapide et simplifiée.",
@@ -156,16 +156,16 @@ const resources = {
       "S'inscrire": "S'inscrire",
       Conçu: "Conçu",
       "pour exceller.": "pour exceller.",
-      "La vocation de UpTaskers est simple : vous faire gagner du temps en vous offrant un accès instantané aux meilleurs talents de votre région.":
-        "La vocation de UpTaskers est simple : vous faire gagner du temps en vous offrant un accès instantané aux meilleurs talents de votre région.",
+      "La vocation de Uptaskers est simple : vous faire gagner du temps en vous offrant un accès instantané aux meilleurs talents de votre région.":
+        "La vocation de Uptaskers est simple : vous faire gagner du temps en vous offrant un accès instantané aux meilleurs talents de votre région.",
       "Nous combinons l'efficacité d'une plateforme moderne à l'expertise de professionnels vérifiés, pour que chaque service rendu soit une expérience parfaitement fluide.":
         "Nous combinons l'efficacité d'une plateforme moderne à l'expertise de professionnels vérifiés, pour que chaque service rendu soit une expérience parfaitement fluide.",
       "Réseau Fiable": "Réseau Fiable",
       "Des talents": "Des talents",
       "certifiés.": "certifiés.",
       "Profils vérifiés": "Profils vérifiés",
-      "Chaque prestataire sur UpTaskers passe par un processus de vérification d'identité approfondi pour garantir votre sécurité.":
-        "Chaque prestataire sur UpTaskers passe par un processus de vérification d'identité approfondi pour garantir votre sécurité.",
+      "Chaque prestataire sur Uptaskers passe par un processus de vérification d'identité approfondi pour garantir votre sécurité.":
+        "Chaque prestataire sur Uptaskers passe par un processus de vérification d'identité approfondi pour garantir votre sécurité.",
       "Avis authentiques": "Avis authentiques",
       "Lisez les retours d'expérience réels. Seuls les clients ayant utilisé les services peuvent laisser un avis.":
         "Lisez les retours d'expérience réels. Seuls les clients ayant utilisé les services peuvent laisser un avis.",
@@ -269,7 +269,7 @@ const resources = {
       Peinture: "Peinture",
       Vétérinaire: "Vétérinaire",
       "Agent immobilier": "Agent immobilier",
-      "Journal UpTaskers": "Journal UpTaskers",
+      "Journal Uptaskers": "Journal Uptaskers",
       "Guides, astuces et conseils pour clients et professionnels":
         "Guides, astuces et conseils pour clients et professionnels",
       "Lire la suite": "Lire la suite",
@@ -280,16 +280,16 @@ const resources = {
       "Découvrir nos services": "Découvrir nos services",
       "Découvrez les tendances actuelles et les domaines les plus demandés par nos clients pour optimiser votre profil et saisir de nouvelles opportunités.":
         "Découvrez les tendances actuelles et les domaines les plus demandés par nos clients pour optimiser votre profil et saisir de nouvelles opportunités.",
-      "UpTaskers facilite la rencontre entre clients et professionnels qualifiés pour des collaborations simples, rapides et efficaces.":
-        "UpTaskers facilite la rencontre entre clients et professionnels qualifiés pour des collaborations simples, rapides et efficaces.",
+      "Uptaskers facilite la rencontre entre clients et professionnels qualifiés pour des collaborations simples, rapides et efficaces.":
+        "Uptaskers facilite la rencontre entre clients et professionnels qualifiés pour des collaborations simples, rapides et efficaces.",
       "Que vous soyez une entreprise à la recherche d'une expertise précise ou un particulier ayant besoin d'un coup de main, notre plateforme vous connecte aux meilleurs talents locaux.":
         "Que vous soyez une entreprise à la recherche d'une expertise précise ou un particulier ayant besoin d'un coup de main, notre plateforme vous connecte aux meilleurs talents locaux.",
       "Avis des utilisateurs et statistiques":
         "Avis des utilisateurs et statistiques",
-      "Découvrez ce que notre communauté pense de UpTaskers et rejoignez nos milliers d'utilisateurs actifs.":
-        "Découvrez ce que notre communauté pense de UpTaskers et rejoignez nos milliers d'utilisateurs actifs.",
-      "Avec plus de 10 000 utilisateurs et 5 000 professionnels inscrits, UpTaskers est fier de maintenir un taux de satisfaction de 98% sur plus de 25 000 missions réalisées.":
-        "Avec plus de 10 000 utilisateurs et 5 000 professionnels inscrits, UpTaskers est fier de maintenir un taux de satisfaction de 98% sur plus de 25 000 missions réalisées.",
+      "Découvrez ce que notre communauté pense de Uptaskers et rejoignez nos milliers d'utilisateurs actifs.":
+        "Découvrez ce que notre communauté pense de Uptaskers et rejoignez nos milliers d'utilisateurs actifs.",
+      "Avec plus de 10 000 utilisateurs et 5 000 professionnels inscrits, Uptaskers est fier de maintenir un taux de satisfaction de 98% sur plus de 25 000 missions réalisées.":
+        "Avec plus de 10 000 utilisateurs et 5 000 professionnels inscrits, Uptaskers est fier de maintenir un taux de satisfaction de 98% sur plus de 25 000 missions réalisées.",
       "Chaque freelance est sélectionné avec une extrême précision, garantissant un niveau d'expertise maximal et une intégration parfaite dans vos équipes.":
         "Chaque freelance est sélectionné avec une extrême précision, garantissant un niveau d'expertise maximal et une intégration parfaite dans vos équipes.",
       "Objectif 2030": "Objectif 2030",
@@ -309,8 +309,8 @@ const resources = {
       Ressources: "Ressources",
       "Avis clients": "Avis clients",
       "Vérification des profils": "Vérification des profils",
-      "Garantie UpTaskers": "Garantie UpTaskers",
-      "À propos de UpTaskers": "À propos de UpTaskers",
+      "Garantie Uptaskers": "Garantie Uptaskers",
+      "À propos de Uptaskers": "À propos de Uptaskers",
       "Nous contacter": "Nous contacter",
       "Support client": "Support client",
       "Conditions d'utilisation": "Conditions d'utilisation",
@@ -341,8 +341,8 @@ const resources = {
       Plateau: "Plateau",
       "Abidjan, Côte d'Ivoire": "Abidjan, Côte d'Ivoire",
       "Téléchargez notre application": "Téléchargez notre application",
-      "Emportez UpTaskers partout avec vous. Gérez vos projets, échangez avec des pros et suivez l'avancement de vos demandes depuis votre mobile.":
-        "Emportez UpTaskers partout avec vous. Gérez vos projets, échangez avec des pros et suivez l'avancement de vos demandes depuis votre mobile.",
+      "Emportez Uptaskers partout avec vous. Gérez vos projets, échangez avec des pros et suivez l'avancement de vos demandes depuis votre mobile.":
+        "Emportez Uptaskers partout avec vous. Gérez vos projets, échangez avec des pros et suivez l'avancement de vos demandes depuis votre mobile.",
       "Centre de ressources": "Centre de ressources",
       "Outils et guides pour": "Outils et guides pour",
       "réussir.": "réussir.",
@@ -374,14 +374,14 @@ const resources = {
       "Les meilleures stratégies pour fidéliser votre clientèle et développer votre e-réputation.":
         "Les meilleures stratégies pour fidéliser votre clientèle et développer votre e-réputation.",
       "Formations Vidéo": "Formations Vidéo",
-      "Apprenez à maîtriser toutes les fonctionnalités de UpTaskers en quelques minutes grâce à nos tutoriels interactifs.":
-        "Apprenez à maîtriser toutes les fonctionnalités de UpTaskers en quelques minutes grâce à nos tutoriels interactifs.",
+      "Apprenez à maîtriser toutes les fonctionnalités de Uptaskers en quelques minutes grâce à nos tutoriels interactifs.":
+        "Apprenez à maîtriser toutes les fonctionnalités de Uptaskers en quelques minutes grâce à nos tutoriels interactifs.",
       "Voir les tutoriels": "Voir les tutoriels",
       "Formation vidéo": "Formation vidéo",
       "À propos de nous": "À propos de nous",
-      "Découvrez UpTaskers": "Découvrez UpTaskers",
-      "Bienvenue sur UpTaskers, une plateforme dédiée à la mise en relation entre particuliers, entreprises et professionnels qualifiés.":
-        "Bienvenue sur UpTaskers, une plateforme dédiée à la mise en relation entre particuliers, entreprises et professionnels qualifiés.",
+      "Découvrez Uptaskers": "Découvrez Uptaskers",
+      "Bienvenue sur Uptaskers, une plateforme dédiée à la mise en relation entre particuliers, entreprises et professionnels qualifiés.":
+        "Bienvenue sur Uptaskers, une plateforme dédiée à la mise en relation entre particuliers, entreprises et professionnels qualifiés.",
       "Qui sommes-nous ?": "Qui sommes-nous ?",
       "Notre mission est simple : permettre à chacun de trouver rapidement des prestataires compétents et de confiance pour répondre à ses besoins, tout en offrant aux professionnels une opportunité de développer leur activité et de gagner en visibilité.":
         "Notre mission est simple : permettre à chacun de trouver rapidement des prestataires compétents et de confiance pour répondre à ses besoins, tout en offrant aux professionnels une opportunité de développer leur activité et de gagner en visibilité.",
@@ -450,8 +450,8 @@ const resources = {
       "Avantages Exclusifs": "Avantages Exclusifs",
       "Maximisez votre ": "Maximisez votre ",
       "impact.": "impact.",
-      "Que vous soyez un professionnel cherchant à développer sa clientèle ou un particulier en quête d'experts de confiance, UpTaskers vous offre les meilleurs outils pour réussir.":
-        "Que vous soyez un professionnel cherchant à développer sa clientèle ou un particulier en quête d'experts de confiance, UpTaskers vous offre les meilleurs outils pour réussir.",
+      "Que vous soyez un professionnel cherchant à développer sa clientèle ou un particulier en quête d'experts de confiance, Uptaskers vous offre les meilleurs outils pour réussir.":
+        "Que vous soyez un professionnel cherchant à développer sa clientèle ou un particulier en quête d'experts de confiance, Uptaskers vous offre les meilleurs outils pour réussir.",
       "Développez votre activité": "Développez votre activité",
       "Accédez à une large base de clients qualifiés et augmentez votre chiffre d'affaires sans effort de prospection.":
         "Accédez à une large base de clients qualifiés et augmentez votre chiffre d'affaires sans effort de prospection.",
@@ -473,7 +473,7 @@ const resources = {
       "Prêt à libérer votre potentiel ?": "Prêt à libérer votre potentiel ?",
       "Rejoignez la plateforme qui transforme la façon dont les professionnels et les clients collaborent.":
         "Rejoignez la plateforme qui transforme la façon dont les professionnels et les clients collaborent.",
-      "Rejoindre UpTaskers maintenant": "Rejoindre UpTaskers maintenant",
+      "Rejoindre Uptaskers maintenant": "Rejoindre Uptaskers maintenant",
       "Tendances du mois": "Tendances du mois",
       "Les catégories les plus utilisées": "Les catégories les plus utilisées",
       "Découvrez les services les plus populaires ce mois-ci et trouvez l'expert idéal.":
@@ -492,8 +492,8 @@ const resources = {
       "Technicien IT": "Technicien IT",
       avis: "avis",
       "Voir le profil": "Voir le profil",
-      "Déjà plus de 10 000 clients et 5 000 professionnels ont franchi le pas ! Avec 25 000 missions réussies et 98 % de satisfaction, UpTaskers est la référence incontournable de votre quotidien.":
-        "Déjà plus de 10 000 clients et 5 000 professionnels ont franchi le pas ! Avec 25 000 missions réussies et 98 % de satisfaction, UpTaskers est la référence incontournable de votre quotidien.",
+      "Déjà plus de 10 000 clients et 5 000 professionnels ont franchi le pas ! Avec 25 000 missions réussies et 98 % de satisfaction, Uptaskers est la référence incontournable de votre quotidien.":
+        "Déjà plus de 10 000 clients et 5 000 professionnels ont franchi le pas ! Avec 25 000 missions réussies et 98 % de satisfaction, Uptaskers est la référence incontournable de votre quotidien.",
       "Découvrez nos services": "Découvrez nos services",
       "Note moyenne basée sur": "Note moyenne basée sur",
       "+12,000 avis certifiés": "+12,000 avis certifiés",
@@ -629,7 +629,7 @@ const resources = {
   EN: {
     translation: {
       "Bienvenue sur la page": "Welcome to the page",
-      "Cette section de UpTaskers est actuellement en cours de développement.": "This section of UpTaskers is currently under development.",
+      "Cette section de Uptaskers est actuellement en cours de développement.": "This section of Uptaskers is currently under development.",
       "Notre plateforme évolue continuellement pour vous offrir la meilleure expérience. Restez à l'écoute pour les mises à jour alors que nous construisons cette ressource complète.": "Our platform is continuously evolving to provide you with the best experience. Stay tuned for updates as we build out this comprehensive resource.",
 
       "Légal & Confidentialité": "Legal & Privacy",
@@ -641,17 +641,17 @@ const resources = {
         "Contact our personal data protection team at the following email address:",
       "Engagement de Confiance": "Commitment to Trust",
       "Votre Sécurité Avant Tout": "Your Security Above All",
-      "UpTaskers a été pensé et conçu pour vous offrir un environnement sûr et de confiance. Aucun compromis n'est fait avec vos données et votre confidentialité, pour que vous puissiez développer votre activité et recourir à des experts en toute sérénité.":
-        "UpTaskers has been designed to provide you with a safe and trusted environment. No compromise is made with your data and privacy, so you can develop your business and hire experts with peace of mind.",
+      "Uptaskers a été pensé et conçu pour vous offrir un environnement sûr et de confiance. Aucun compromis n'est fait avec vos données et votre confidentialité, pour que vous puissiez développer votre activité et recourir à des experts en toute sérénité.":
+        "Uptaskers has been designed to provide you with a safe and trusted environment. No compromise is made with your data and privacy, so you can develop your business and hire experts with peace of mind.",
       "Paiements Sécurisés": "Secure Payments",
       "Identités Vérifiées": "Verified Identities",
       "Confidentialité Protégée": "Privacy Protected",
       "1. Introduction": "1. Introduction",
-      "UpTaskers est la plateforme de référence pour la mise en relation entre professionnels qualifiés et clients. Cette politique explique comment nous recueillons, utilisons et protégeons vos informations personnelles.":
-        "UpTaskers is the leading platform for connecting qualified professionals and clients. This policy explains how we collect, use, and protect your personal information.",
+      "Uptaskers est la plateforme de référence pour la mise en relation entre professionnels qualifiés et clients. Cette politique explique comment nous recueillons, utilisons et protégeons vos informations personnelles.":
+        "Uptaskers is the leading platform for connecting qualified professionals and clients. This policy explains how we collect, use, and protect your personal information.",
       "2. Nature du Service": "2. Nature of the Service",
-      "UpTaskers permet de trouver, de contacter et de travailler avec des experts dans de multiples domaines, en garantissant la sécurité des paiements et la qualité des échanges.":
-        "UpTaskers allows you to find, contact, and work with experts in multiple fields, ensuring secure payments and quality exchanges.",
+      "Uptaskers permet de trouver, de contacter et de travailler avec des experts dans de multiples domaines, en garantissant la sécurité des paiements et la qualité des échanges.":
+        "Uptaskers allows you to find, contact, and work with experts in multiple fields, ensuring secure payments and quality exchanges.",
       "3. Données Collectées": "3. Data Collected",
       "Nous pouvons recueillir les données suivantes :":
         "We may collect the following data:",
@@ -683,8 +683,8 @@ const resources = {
         "Your personal data is stored on highly secure servers",
       "Les transactions financières (paiement) sont cryptées de bout en bout (PCI-DSS)":
         "Financial transactions (payment) are end-to-end encrypted (PCI-DSS)",
-      "Authentification sécurisée pour protéger l'accès à votre compte UpTaskers":
-        "Secure authentication to protect access to your UpTaskers account",
+      "Authentification sécurisée pour protéger l'accès à votre compte Uptaskers":
+        "Secure authentication to protect access to your Uptaskers account",
       "6. Partage des Données": "6. Data Sharing",
       "Nous ne vendons en aucun cas vos données personnelles. Elles peuvent être partagées dans les cas strictement nécessaires suivants :":
         "We never sell your personal data. It may be shared in the following strictly necessary cases:",
@@ -695,8 +695,8 @@ const resources = {
       "Afin de se conformer à des obligations légales en vigueur":
         "In order to comply with applicable legal obligations",
       "7. Vos Droits": "7. Your Rights",
-      "En tant qu'utilisateur de UpTaskers, vous disposez des droits suivants (conformément à la loi ivoirienne sur la protection des données à caractère personnel) :":
-        "As a UpTaskers user, you have the following rights (in accordance with Ivorian data protection law):",
+      "En tant qu'utilisateur de Uptaskers, vous disposez des droits suivants (conformément à la loi ivoirienne sur la protection des données à caractère personnel) :":
+        "As a Uptaskers user, you have the following rights (in accordance with Ivorian data protection law):",
       "Accéder à vos données et en demander la copie":
         "Access your data and request a copy",
       "Rectifier ou mettre à jour vos informations inexactes":
@@ -717,11 +717,11 @@ const resources = {
       "Propriété Intellectuelle": "Intellectual Property",
       "La structure générale du site, ainsi que les textes, images animées ou non et tous les éléments composant le site sont la propriété exclusive de":
         "The general structure of the site, as well as the texts, animated or non-animated images, and all elements making up the site are the exclusive property of",
-      "Toute reproduction, représentation, modification, publication ou adaptation de tout ou partie des éléments du site est interdite sans l'autorisation écrite préalable de UpTaskers.":
-        "Any reproduction, representation, modification, publication, or adaptation of all or part of the elements of the site is prohibited without the prior written consent of UpTaskers.",
+      "Toute reproduction, représentation, modification, publication ou adaptation de tout ou partie des éléments du site est interdite sans l'autorisation écrite préalable de Uptaskers.":
+        "Any reproduction, representation, modification, publication, or adaptation of all or part of the elements of the site is prohibited without the prior written consent of Uptaskers.",
       Responsabilité: "Responsibility",
-      "est une plateforme de mise en relation entre clients et prestataires. UpTaskers agit uniquement comme intermédiaire technique et ne réalise pas les prestations proposées sur la plateforme. En conséquence, UpTaskers ne peut être tenue responsable de la qualité, de l'exécution ou de la non-exécution des services fournis par les prestataires.":
-        "is a matchmaking platform between clients and service providers. UpTaskers acts solely as a technical intermediary and does not carry out the services offered on the platform. Consequently, UpTaskers cannot be held responsible for the quality, execution, or non-execution of the services provided by the service providers.",
+      "est une plateforme de mise en relation entre clients et prestataires. Uptaskers agit uniquement comme intermédiaire technique et ne réalise pas les prestations proposées sur la plateforme. En conséquence, Uptaskers ne peut être tenue responsable de la qualité, de l'exécution ou de la non-exécution des services fournis par les prestataires.":
+        "is a matchmaking platform between clients and service providers. Uptaskers acts solely as a technical intermediary and does not carry out the services offered on the platform. Consequently, Uptaskers cannot be held responsible for the quality, execution, or non-execution of the services provided by the service providers.",
 
       "Dernière mise à jour : 4 Juin 2026": "Last updated: June 4, 2026",
       "Acceptation des Conditions": "Acceptance of Terms",
@@ -765,8 +765,8 @@ const resources = {
       "Se connecter": "Log in",
       "Connectez-vous avec": "Connect with",
       "l'excellence.": "excellence.",
-      "Notre plateforme révolutionne la mise en relation entre professionnels et clients. Que vous ayez besoin d'un expert pour une mission ponctuelle ou que vous cherchiez à développer votre clientèle, UpTaskers crée un environnement de confiance.":
-        "Our platform revolutionizes the connection between professionals and clients. Whether you need an expert for a one-off mission or you're looking to develop your client base, UpTaskers creates a trusted environment.",
+      "Notre plateforme révolutionne la mise en relation entre professionnels et clients. Que vous ayez besoin d'un expert pour une mission ponctuelle ou que vous cherchiez à développer votre clientèle, Uptaskers crée un environnement de confiance.":
+        "Our platform revolutionizes the connection between professionals and clients. Whether you need an expert for a one-off mission or you're looking to develop your client base, Uptaskers creates a trusted environment.",
       Commencer: "Get Started",
       "Une mise en relation rapide et simplifiée.":
         "A quick and simplified connection.",
@@ -780,16 +780,16 @@ const resources = {
       "S'inscrire": "Sign Up",
       Conçu: "Designed",
       "pour exceller.": "to excel.",
-      "La vocation de UpTaskers est simple : vous faire gagner du temps en vous offrant un accès instantané aux meilleurs talents de votre région.":
-        "UpTaskers's vocation is simple: to save you time by offering instant access to the best talents in your area.",
+      "La vocation de Uptaskers est simple : vous faire gagner du temps en vous offrant un accès instantané aux meilleurs talents de votre région.":
+        "Uptaskers's vocation is simple: to save you time by offering instant access to the best talents in your area.",
       "Nous combinons l'efficacité d'une plateforme moderne à l'expertise de professionnels vérifiés, pour que chaque service rendu soit une expérience parfaitement fluide.":
         "We combine the efficiency of a modern platform with the expertise of verified professionals, so that every service rendered is a perfectly smooth experience.",
       "Réseau Fiable": "Reliable Network",
       "Des talents": "Certified",
       "certifiés.": "talents.",
       "Profils vérifiés": "Verified Profiles",
-      "Chaque prestataire sur UpTaskers passe par un processus de vérification d'identité approfondi pour garantir votre sécurité.":
-        "Every provider on UpTaskers goes through a thorough identity verification process to guarantee your security.",
+      "Chaque prestataire sur Uptaskers passe par un processus de vérification d'identité approfondi pour garantir votre sécurité.":
+        "Every provider on Uptaskers goes through a thorough identity verification process to guarantee your security.",
       "Avis authentiques": "Authentic Reviews",
       "Lisez les retours d'expérience réels. Seuls les clients ayant utilisé les services peuvent laisser un avis.":
         "Read real feedback. Only clients who have used the services can leave a review.",
@@ -893,7 +893,7 @@ const resources = {
       Peinture: "Painting",
       Vétérinaire: "Veterinary",
       "Agent immobilier": "Real Estate Agent",
-      "Journal UpTaskers": "UpTaskers Journal",
+      "Journal Uptaskers": "Uptaskers Journal",
       "Guides, astuces et conseils pour clients et professionnels":
         "Guides, tips and advice for clients and professionals",
       "Lire la suite": "Read more",
@@ -904,15 +904,15 @@ const resources = {
       "Découvrir nos services": "Discover our services",
       "Découvrez les tendances actuelles et les domaines les plus demandés par nos clients pour optimiser votre profil et saisir de nouvelles opportunités.":
         "Discover current trends and the most requested domains by our clients to optimize your profile and seize new opportunities.",
-      "UpTaskers facilite la rencontre entre clients et professionnels qualifiés pour des collaborations simples, rapides et efficaces.":
-        "UpTaskers facilitates the meeting between clients and qualified professionals for simple, fast, and effective collaborations.",
+      "Uptaskers facilite la rencontre entre clients et professionnels qualifiés pour des collaborations simples, rapides et efficaces.":
+        "Uptaskers facilitates the meeting between clients and qualified professionals for simple, fast, and effective collaborations.",
       "Que vous soyez une entreprise à la recherche d'une expertise précise ou un particulier ayant besoin d'un coup de main, notre plateforme vous connecte aux meilleurs talents locaux.":
         "Whether you are a company looking for specific expertise or an individual needing a hand, our platform connects you strictly with the best local talents.",
       "Avis des utilisateurs et statistiques": "User reviews and statistics",
-      "Découvrez ce que notre communauté pense de UpTaskers et rejoignez nos milliers d'utilisateurs actifs.":
-        "Discover what our community thinks of UpTaskers and join our thousands of active users.",
-      "Avec plus de 10 000 utilisateurs et 5 000 professionnels inscrits, UpTaskers est fier de maintenir un taux de satisfaction de 98% sur plus de 25 000 missions réalisées.":
-        "With more than 10,000 users and 5,000 registered professionals, UpTaskers is proud to maintain a 98% satisfaction rate on over 25,000 completed missions.",
+      "Découvrez ce que notre communauté pense de Uptaskers et rejoignez nos milliers d'utilisateurs actifs.":
+        "Discover what our community thinks of Uptaskers and join our thousands of active users.",
+      "Avec plus de 10 000 utilisateurs et 5 000 professionnels inscrits, Uptaskers est fier de maintenir un taux de satisfaction de 98% sur plus de 25 000 missions réalisées.":
+        "With more than 10,000 users and 5,000 registered professionals, Uptaskers is proud to maintain a 98% satisfaction rate on over 25,000 completed missions.",
       "Chaque freelance est sélectionné avec une extrême précision, garantissant un niveau d'expertise maximal et une intégration parfaite dans vos équipes.":
         "Every freelance is selected with extreme precision, guaranteeing maximum expertise and perfect integration into your teams.",
       "Objectif 2030": "Goal 2030",
@@ -932,8 +932,8 @@ const resources = {
       Ressources: "Resources",
       "Avis clients": "Customer reviews",
       "Vérification des profils": "Profile verification",
-      "Garantie UpTaskers": "UpTaskers Guarantee",
-      "À propos de UpTaskers": "About UpTaskers",
+      "Garantie Uptaskers": "Uptaskers Guarantee",
+      "À propos de Uptaskers": "About Uptaskers",
       "Nous contacter": "Contact us",
       "Support client": "Customer support",
       "Conditions d'utilisation": "Terms of use",
@@ -964,8 +964,8 @@ const resources = {
       Plateau: "Plateau",
       "Abidjan, Côte d'Ivoire": "Abidjan, Ivory Coast",
       "Téléchargez notre application": "Download our app",
-      "Emportez UpTaskers partout avec vous. Gérez vos projets, échangez avec des pros et suivez l'avancement de vos demandes depuis votre mobile.":
-        "Take UpTaskers everywhere with you. Manage your projects, easily chat with pros and follow the progress of your requests from your mobile.",
+      "Emportez Uptaskers partout avec vous. Gérez vos projets, échangez avec des pros et suivez l'avancement de vos demandes depuis votre mobile.":
+        "Take Uptaskers everywhere with you. Manage your projects, easily chat with pros and follow the progress of your requests from your mobile.",
       "Centre de ressources": "Resource Center",
       "Outils et guides pour": "Tools and guides to",
       "réussir.": "succeed.",
@@ -996,14 +996,14 @@ const resources = {
       "Les meilleures stratégies pour fidéliser votre clientèle et développer votre e-réputation.":
         "The best strategies to build customer loyalty and develop your e-reputation.",
       "Formations Vidéo": "Video Trainings",
-      "Apprenez à maîtriser toutes les fonctionnalités de UpTaskers en quelques minutes grâce à nos tutoriels interactifs.":
-        "Learn to master all UpTaskers features in a few minutes thanks to our interactive tutorials.",
+      "Apprenez à maîtriser toutes les fonctionnalités de Uptaskers en quelques minutes grâce à nos tutoriels interactifs.":
+        "Learn to master all Uptaskers features in a few minutes thanks to our interactive tutorials.",
       "Voir les tutoriels": "View tutorials",
       "Formation vidéo": "Video training",
       "À propos de nous": "About us",
-      "Découvrez UpTaskers": "Discover UpTaskers",
-      "Bienvenue sur UpTaskers, une plateforme dédiée à la mise en relation entre particuliers, entreprises et professionnels qualifiés.":
-        "Welcome to UpTaskers, a platform dedicated to connecting individuals, companies, and qualified professionals.",
+      "Découvrez Uptaskers": "Discover Uptaskers",
+      "Bienvenue sur Uptaskers, une plateforme dédiée à la mise en relation entre particuliers, entreprises et professionnels qualifiés.":
+        "Welcome to Uptaskers, a platform dedicated to connecting individuals, companies, and qualified professionals.",
       "Qui sommes-nous ?": "Who are we?",
       "Notre mission est simple : permettre à chacun de trouver rapidement des prestataires compétents et de confiance pour répondre à ses besoins, tout en offrant aux professionnels une opportunité de développer leur activité et de gagner en visibilité.":
         "Our mission is simple: to allow everyone to quickly find competent and trusted providers to meet their needs, while offering professionals an opportunity to develop their activity and gain visibility.",
@@ -1069,8 +1069,8 @@ const resources = {
       "Avantages Exclusifs": "Exclusive Benefits",
       "Maximisez votre ": "Maximize your ",
       "impact.": "impact.",
-      "Que vous soyez un professionnel cherchant à développer sa clientèle ou un particulier en quête d'experts de confiance, UpTaskers vous offre les meilleurs outils pour réussir.":
-        "Whether you are a professional looking to develop your customer base or an individual looking for trusted experts, UpTaskers offers you the best tools to succeed.",
+      "Que vous soyez un professionnel cherchant à développer sa clientèle ou un particulier en quête d'experts de confiance, Uptaskers vous offre les meilleurs outils pour réussir.":
+        "Whether you are a professional looking to develop your customer base or an individual looking for trusted experts, Uptaskers offers you the best tools to succeed.",
       "Développez votre activité": "Develop your business",
       "Accédez à une large base de clients qualifiés et augmentez votre chiffre d'affaires sans effort de prospection.":
         "Access a large database of qualified customers and increase your turnover without prospecting effort.",
@@ -1092,7 +1092,7 @@ const resources = {
       "Prêt à libérer votre potentiel ?": "Ready to unlock your potential?",
       "Rejoignez la plateforme qui transforme la façon dont les professionnels et les clients collaborent.":
         "Join the platform that transforms the way professionals and clients collaborate.",
-      "Rejoindre UpTaskers maintenant": "Join UpTaskers now",
+      "Rejoindre Uptaskers maintenant": "Join Uptaskers now",
       "Tendances du mois": "Monthly trends",
       "Les catégories les plus utilisées": "Most used categories",
       "Découvrez les services les plus populaires ce mois-ci et trouvez l'expert idéal.":
@@ -1111,8 +1111,8 @@ const resources = {
       "Technicien IT": "IT Technician",
       avis: "reviews",
       "Voir le profil": "View profile",
-      "Déjà plus de 10 000 clients et 5 000 professionnels ont franchi le pas ! Avec 25 000 missions réussies et 98 % de satisfaction, UpTaskers est la référence incontournable de votre quotidien.":
-        "Already more than 10,000 clients and 5,000 professionals have taken the plunge! With 25,000 successful missions and 98% satisfaction, UpTaskers is the essential reference for your daily life.",
+      "Déjà plus de 10 000 clients et 5 000 professionnels ont franchi le pas ! Avec 25 000 missions réussies et 98 % de satisfaction, Uptaskers est la référence incontournable de votre quotidien.":
+        "Already more than 10,000 clients and 5,000 professionals have taken the plunge! With 25,000 successful missions and 98% satisfaction, Uptaskers is the essential reference for your daily life.",
       "Découvrez nos services": "Discover our services",
       "Note moyenne basée sur": "Average rating based on",
       "+12,000 avis certifiés": "+12,000 certified reviews",
@@ -1243,7 +1243,7 @@ const resources = {
   ES: {
     translation: {
       "Bienvenue sur la page": "Bienvenido a la página",
-      "Cette section de UpTaskers est actuellement en cours de développement.": "Esta sección de UpTaskers se encuentra actualmente en desarrollo.",
+      "Cette section de Uptaskers est actuellement en cours de développement.": "Esta sección de Uptaskers se encuentra actualmente en desarrollo.",
       "Notre plateforme évolue continuellement pour vous offrir la meilleure expérience. Restez à l'écoute pour les mises à jour alors que nous construisons cette ressource complète.": "Nuestra plataforma evoluciona continuamente para ofrecerle la mejor experiencia. Esté atento a las actualizaciones a medida que construimos este recurso completo.",
 
       "Légal & Confidentialité": "Legal & Privacy",
@@ -1255,17 +1255,17 @@ const resources = {
         "Contact our privacy team:",
       "Engagement de Confiance": "Commitment to Trust",
       "Votre Sécurité Avant Tout": "Your Security Above All",
-      "UpTaskers a été pensé et conçu pour vous offrir un environnement sûr et de confiance. Aucun compromis n'est fait avec vos données et votre confidentialité, pour que vous puissiez développer votre activité et recourir à des experts en toute sérénité.":
-        "UpTaskers has been designed to provide you with a safe and trusted environment. No compromise is made with your data and privacy, so you can develop your business and hire experts with peace of mind.",
+      "Uptaskers a été pensé et conçu pour vous offrir un environnement sûr et de confiance. Aucun compromis n'est fait avec vos données et votre confidentialité, pour que vous puissiez développer votre activité et recourir à des experts en toute sérénité.":
+        "Uptaskers has been designed to provide you with a safe and trusted environment. No compromise is made with your data and privacy, so you can develop your business and hire experts with peace of mind.",
       "Paiements Sécurisés": "Secure Payments",
       "Identités Vérifiées": "Verified Identities",
       "Confidentialité Protégée": "Privacy Protected",
       "1. Introduction": "1. Introduction",
-      "UpTaskers est la plateforme de référence pour la mise en relation entre professionnels qualifiés et clients. Cette politique explique comment nous recueillons, utilisons et protégeons vos informations personnelles.":
-        "UpTaskers is the leading platform for connecting qualified professionals and clients. This policy explains how we collect, use, and protect your personal information.",
+      "Uptaskers est la plateforme de référence pour la mise en relation entre professionnels qualifiés et clients. Cette politique explique comment nous recueillons, utilisons et protégeons vos informations personnelles.":
+        "Uptaskers is the leading platform for connecting qualified professionals and clients. This policy explains how we collect, use, and protect your personal information.",
       "2. Nature du Service": "2. Nature of the Service",
-      "UpTaskers permet de trouver, de contacter et de travailler avec des experts dans de multiples domaines, en garantissant la sécurité des paiements et la qualité des échanges.":
-        "UpTaskers allows you to find, contact, and work with experts in multiple fields, ensuring secure payments and quality exchanges.",
+      "Uptaskers permet de trouver, de contacter et de travailler avec des experts dans de multiples domaines, en garantissant la sécurité des paiements et la qualité des échanges.":
+        "Uptaskers allows you to find, contact, and work with experts in multiple fields, ensuring secure payments and quality exchanges.",
       "3. Données Collectées": "3. Data Collected",
       "Nous pouvons recueillir les données suivantes :":
         "We may collect the following data:",
@@ -1297,8 +1297,8 @@ const resources = {
         "Your personal data is stored on highly secure servers",
       "Les transactions financières (paiement) sont cryptées de bout en bout (PCI-DSS)":
         "Financial transactions (payment) are end-to-end encrypted (PCI-DSS)",
-      "Authentification sécurisée pour protéger l'accès à votre compte UpTaskers":
-        "Secure authentication to protect access to your UpTaskers account",
+      "Authentification sécurisée pour protéger l'accès à votre compte Uptaskers":
+        "Secure authentication to protect access to your Uptaskers account",
       "6. Partage des Données": "6. Data Sharing",
       "Nous ne vendons en aucun cas vos données personnelles. Elles peuvent être partagées dans les cas strictement nécessaires suivants :":
         "We never sell your personal data. It may be shared in the following strictly necessary cases:",
@@ -1309,8 +1309,8 @@ const resources = {
       "Afin de se conformer à des obligations légales en vigueur":
         "In order to comply with applicable legal obligations",
       "7. Vos Droits": "7. Your Rights",
-      "En tant qu'utilisateur de UpTaskers, vous disposez des droits suivants (conformément à la loi ivoirienne sur la protection des données à caractère personnel) :":
-        "As a UpTaskers user, you have the following rights (in accordance with Ivorian data protection law):",
+      "En tant qu'utilisateur de Uptaskers, vous disposez des droits suivants (conformément à la loi ivoirienne sur la protection des données à caractère personnel) :":
+        "As a Uptaskers user, you have the following rights (in accordance with Ivorian data protection law):",
       "Accéder à vos données et en demander la copie":
         "Access your data and request a copy",
       "Rectifier ou mettre à jour vos informations inexactes":
@@ -1331,11 +1331,11 @@ const resources = {
       "Propriété Intellectuelle": "Intellectual Property",
       "La structure générale du site, ainsi que les textes, images animées ou non et tous les éléments composant le site sont la propriété exclusive de":
         "The general structure of the site, as well as the texts, animated or non-animated images, and all elements making up the site are the exclusive property of",
-      "Toute reproduction, représentation, modification, publication ou adaptation de tout ou partie des éléments du site est interdite sans l'autorisation écrite préalable de UpTaskers.":
+      "Toute reproduction, représentation, modification, publication ou adaptation de tout ou partie des éléments du site est interdite sans l'autorisation écrite préalable de Uptaskers.":
         "Any total or partial representation of this site by any means whatsoever, without the express permission of the website operator, is prohibited.",
       Responsabilité: "Responsibility",
-      "est une plateforme de mise en relation entre clients et prestataires. UpTaskers agit uniquement comme intermédiaire technique et ne réalise pas les prestations proposées sur la plateforme. En conséquence, UpTaskers ne peut être tenue responsable de la qualité, de l'exécution ou de la non-exécution des services fournis par les prestataires.":
-        "is a matchmaking platform between clients and service providers. UpTaskers acts solely as a technical intermediary and does not carry out the services offered on the platform. Consequently, UpTaskers cannot be held responsible for the quality, execution, or non-execution of the services provided by the service providers.",
+      "est une plateforme de mise en relation entre clients et prestataires. Uptaskers agit uniquement comme intermédiaire technique et ne réalise pas les prestations proposées sur la plateforme. En conséquence, Uptaskers ne peut être tenue responsable de la qualité, de l'exécution ou de la non-exécution des services fournis par les prestataires.":
+        "is a matchmaking platform between clients and service providers. Uptaskers acts solely as a technical intermediary and does not carry out the services offered on the platform. Consequently, Uptaskers cannot be held responsible for the quality, execution, or non-execution of the services provided by the service providers.",
 
       "Dernière mise à jour : 4 Juin 2026": "Last updated: June 4, 2026",
       "Acceptation des Conditions": "Acceptance of Terms",
@@ -1379,8 +1379,8 @@ const resources = {
       "Se connecter": "Iniciar sesión",
       "Connectez-vous avec": "Conéctate con",
       "l'excellence.": "la excelencia.",
-      "Notre plateforme révolutionne la mise en relation entre professionnels et clients. Que vous ayez besoin d'un expert pour une mission ponctuelle ou que vous cherchiez à développer votre clientèle, UpTaskers crée un environnement de confiance.":
-        "Nuestra plataforma revoluciona la conexión entre profesionales y clientes. Ya sea que necesites un experto para una misión puntual o estés buscando desarrollar tu clientela, UpTaskers crea un entorno de confianza.",
+      "Notre plateforme révolutionne la mise en relation entre professionnels et clients. Que vous ayez besoin d'un expert pour une mission ponctuelle ou que vous cherchiez à développer votre clientèle, Uptaskers crée un environnement de confiance.":
+        "Nuestra plataforma revoluciona la conexión entre profesionales y clientes. Ya sea que necesites un experto para una misión puntual o estés buscando desarrollar tu clientela, Uptaskers crea un entorno de confianza.",
       Commencer: "Empezar",
       "Une mise en relation rapide et simplifiée.":
         "Una conexión rápida y simplificada.",
@@ -1394,16 +1394,16 @@ const resources = {
       "S'inscrire": "Registrarse",
       Conçu: "Diseñado",
       "pour exceller.": "para sobresalir.",
-      "La vocation de UpTaskers est simple : vous faire gagner du temps en vous offrant un accès instantané aux meilleurs talents de votre région.":
-        "La vocación de UpTaskers es simple: ahorrarte tiempo ofreciéndote acceso instantáneo a los mejores talentos de tu zona.",
+      "La vocation de Uptaskers est simple : vous faire gagner du temps en vous offrant un accès instantané aux meilleurs talents de votre région.":
+        "La vocación de Uptaskers es simple: ahorrarte tiempo ofreciéndote acceso instantáneo a los mejores talentos de tu zona.",
       "Nous combinons l'efficacité d'une plateforme moderne à l'expertise de professionnels vérifiés, pour que chaque service rendu soit une expérience parfaitement fluide.":
         "Combinamos la eficiencia de una plataforma moderna con la experiencia de profesionales verificados, para que cada servicio prestado sea una experiencia perfectamente fluida.",
       "Réseau Fiable": "Red Confiable",
       "Des talents": "Talentos",
       "certifiés.": "certificados.",
       "Profils vérifiés": "Perfiles verificados",
-      "Chaque prestataire sur UpTaskers passe par un processus de vérification d'identité approfondi pour garantir votre sécurité.":
-        "Cada proveedor en UpTaskers pasa por un exhaustivo proceso de verificación de identidad para garantizar tu seguridad.",
+      "Chaque prestataire sur Uptaskers passe par un processus de vérification d'identité approfondi pour garantir votre sécurité.":
+        "Cada proveedor en Uptaskers pasa por un exhaustivo proceso de verificación de identidad para garantizar tu seguridad.",
       "Avis authentiques": "Opiniones auténticas",
       "Lisez les retours d'expérience réels. Seuls les clients ayant utilisé les services peuvent laisser un avis.":
         "Lee comentarios reales. Solo los clientes que han utilizado los servicios pueden dejar una opinión.",
@@ -1507,7 +1507,7 @@ const resources = {
       Peinture: "Pintura",
       Vétérinaire: "Veterinaria",
       "Agent immobilier": "Agente inmobiliario",
-      "Journal UpTaskers": "Periódico UpTaskers",
+      "Journal Uptaskers": "Periódico Uptaskers",
       "Guides, astuces et conseils pour clients et professionnels":
         "Guías, trucos y consejos para clientes y profesionales",
       "Lire la suite": "Leer más",
@@ -1518,16 +1518,16 @@ const resources = {
       "Découvrir nos services": "Descubra nuestros servicios",
       "Découvrez les tendances actuelles et les domaines les plus demandés par nos clients pour optimiser votre profil et saisir de nouvelles opportunités.":
         "Descubre las tendencias actuales y los dominios más solicitados por nuestros clientes para optimizar tu perfil y aprovechar nuevas oportunidades.",
-      "UpTaskers facilite la rencontre entre clients et professionnels qualifiés pour des collaborations simples, rapides et efficaces.":
-        "UpTaskers facilita el encuentro entre clientes y profesionales cualificados para colaboraciones sencillas, rápidas y eficaces.",
+      "Uptaskers facilite la rencontre entre clients et professionnels qualifiés pour des collaborations simples, rapides et efficaces.":
+        "Uptaskers facilita el encuentro entre clientes y profesionales cualificados para colaboraciones sencillas, rápidas y eficaces.",
       "Que vous soyez une entreprise à la recherche d'une expertise précise ou un particulier ayant besoin d'un coup de main, notre plateforme vous connecte aux meilleurs talents locaux.":
         "Ya sea que seas una empresa que busca una experiencia específica o un particular que necesita ayuda, nuestra plataforma te conecta con los mejores talentos locales.",
       "Avis des utilisateurs et statistiques":
         "Opiniones de usuarios y estadísticas",
-      "Découvrez ce que notre communauté pense de UpTaskers et rejoignez nos milliers d'utilisateurs actifs.":
-        "Descubre lo que nuestra comunidad piensa de UpTaskers y únete a nuestros miles de usuarios activos.",
-      "Avec plus de 10 000 utilisateurs et 5 000 professionnels inscrits, UpTaskers est fier de maintenir un taux de satisfaction de 98% sur plus de 25 000 missions réalisées.":
-        "Con más de 10.000 usuarios y 5.000 profesionales inscritos, UpTaskers se enorgullece de mantener una tasa de satisfacción del 98% en más de 25.000 misiones realizadas.",
+      "Découvrez ce que notre communauté pense de Uptaskers et rejoignez nos milliers d'utilisateurs actifs.":
+        "Descubre lo que nuestra comunidad piensa de Uptaskers y únete a nuestros miles de usuarios activos.",
+      "Avec plus de 10 000 utilisateurs et 5 000 professionnels inscrits, Uptaskers est fier de maintenir un taux de satisfaction de 98% sur plus de 25 000 missions réalisées.":
+        "Con más de 10.000 usuarios y 5.000 profesionales inscritos, Uptaskers se enorgullece de mantener una tasa de satisfacción del 98% en más de 25.000 misiones realizadas.",
       "Chaque freelance est sélectionné avec une extrême précision, garantissant un niveau d'expertise maximal et une intégration parfaite dans vos équipes.":
         "Cada freelance es seleccionado con extrema precisión, garantizando la máxima experiencia y una perfecta integración en tus equipos.",
       "Objectif 2030": "Objetivo 2030",
@@ -1547,8 +1547,8 @@ const resources = {
       Ressources: "Recursos",
       "Avis clients": "Opiniones de clientes",
       "Vérification des profils": "Verificación de perfiles",
-      "Garantie UpTaskers": "Garantía UpTaskers",
-      "À propos de UpTaskers": "Acerca de UpTaskers",
+      "Garantie Uptaskers": "Garantía Uptaskers",
+      "À propos de Uptaskers": "Acerca de Uptaskers",
       "Nous contacter": "Contáctenos",
       "Support client": "Soporte al cliente",
       "Conditions d'utilisation": "Términos de uso",
@@ -1579,8 +1579,8 @@ const resources = {
       Plateau: "Plateau",
       "Abidjan, Côte d'Ivoire": "Abiyán, Costa de Marfil",
       "Téléchargez notre application": "Descarga nuestra app",
-      "Emportez UpTaskers partout avec vous. Gérez vos projets, échangez avec des pros et suivez l'avancement de vos demandes depuis votre mobile.":
-        "Lleva UpTaskers a todas partes contigo. Gestiona tus proyectos de forma eficaz, intercambia fácilmente con profesionales y sigue el progreso de tus peticiones desde tu móvil.",
+      "Emportez Uptaskers partout avec vous. Gérez vos projets, échangez avec des pros et suivez l'avancement de vos demandes depuis votre mobile.":
+        "Lleva Uptaskers a todas partes contigo. Gestiona tus proyectos de forma eficaz, intercambia fácilmente con profesionales y sigue el progreso de tus peticiones desde tu móvil.",
       "Centre de ressources": "Centro de recursos",
       "Outils et guides pour": "Herramientas y guías para",
       "réussir.": "tener éxito.",
@@ -1611,14 +1611,14 @@ const resources = {
       "Les meilleures stratégies pour fidéliser votre clientèle et développer votre e-réputation.":
         "Las mejores estrategias para fidelizar clientes y desarrollar su reputación electrónica.",
       "Formations Vidéo": "Entrenamientos en video",
-      "Apprenez à maîtriser toutes les fonctionnalités de UpTaskers en quelques minutes grâce à nos tutoriels interactifs.":
-        "Aprenda a dominar todas las características de UpTaskers en minutos con nuestros tutoriales interactivos.",
+      "Apprenez à maîtriser toutes les fonctionnalités de Uptaskers en quelques minutes grâce à nos tutoriels interactifs.":
+        "Aprenda a dominar todas las características de Uptaskers en minutos con nuestros tutoriales interactivos.",
       "Voir les tutoriels": "Ver tutoriales",
       "Formation vidéo": "Formación en video",
       "À propos de nous": "Sobre nosotros",
-      "Découvrez UpTaskers": "Descubre UpTaskers",
-      "Bienvenue sur UpTaskers, une plateforme dédiée à la mise en relation entre particuliers, entreprises et professionnels qualifiés.":
-        "Bienvenido a UpTaskers, una plataforma dedicada a conectar a particulares, empresas y profesionales cualificados.",
+      "Découvrez Uptaskers": "Descubre Uptaskers",
+      "Bienvenue sur Uptaskers, une plateforme dédiée à la mise en relation entre particuliers, entreprises et professionnels qualifiés.":
+        "Bienvenido a Uptaskers, una plataforma dedicada a conectar a particulares, empresas y profesionales cualificados.",
       "Qui sommes-nous ?": "¿Quienes somos?",
       "Notre mission est simple : permettre à chacun de trouver rapidement des prestataires compétents et de confiance pour répondre à ses besoins, tout en offrant aux professionnels une opportunité de développer leur activité et de gagner en visibilité.":
         "Nuestra misión es sencilla: permitir que todos encuentren rápidamente proveedores competentes y de confianza que satisfagan sus necesidades, al tiempo que ofrecemos a los profesionales la oportunidad de desarrollar su negocio y ganar visibilidad.",
@@ -1686,8 +1686,8 @@ const resources = {
       "Avantages Exclusifs": "Beneficios Exclusivos",
       "Maximisez votre ": "Maximiza tu ",
       "impact.": "impacto.",
-      "Que vous soyez un professionnel cherchant à développer sa clientèle ou un particulier en quête d'experts de confiance, UpTaskers vous offre les meilleurs outils pour réussir.":
-        "Tanto si eres un profesional que busca desarrollar su clientela como si eres un particular que busca expertos de confianza, UpTaskers te ofrece las mejores herramientas para triunfar.",
+      "Que vous soyez un professionnel cherchant à développer sa clientèle ou un particulier en quête d'experts de confiance, Uptaskers vous offre les meilleurs outils pour réussir.":
+        "Tanto si eres un profesional que busca desarrollar su clientela como si eres un particular que busca expertos de confianza, Uptaskers te ofrece las mejores herramientas para triunfar.",
       "Développez votre activité": "Desarrolla tu negocio",
       "Accédez à une large base de clients qualifiés et augmentez votre chiffre d'affaires sans effort de prospection.":
         "Acceda a una amplia base de clientes cualificados y aumente su facturación sin esfuerzo de prospección.",
@@ -1709,7 +1709,7 @@ const resources = {
       "Prêt à libérer votre potentiel ?": "¿Listo para liberar tu potencial?",
       "Rejoignez la plateforme qui transforme la façon dont les professionnels et les clients collaborent.":
         "Únase a la plataforma que transforma la forma en que colaboran los profesionales y los clientes.",
-      "Rejoindre UpTaskers maintenant": "Únete a UpTaskers ahora",
+      "Rejoindre Uptaskers maintenant": "Únete a Uptaskers ahora",
       "Tendances du mois": "Tendencias del mes",
       "Les catégories les plus utilisées": "Categorías más utilizadas",
       "Découvrez les services les plus populaires ce mois-ci et trouvez l'expert idéal.":
@@ -1728,8 +1728,8 @@ const resources = {
       "Technicien IT": "Técnico de TI",
       avis: "opiniones",
       "Voir le profil": "Ver perfil",
-      "Déjà plus de 10 000 clients et 5 000 professionnels ont franchi le pas ! Avec 25 000 missions réussies et 98 % de satisfaction, UpTaskers est la référence incontournable de votre quotidien.":
-        "¡Ya más de 10,000 clientes y 5,000 profesionales han dado el paso! Con 25,000 misiones exitosas y un 98 % de satisfacción, UpTaskers es la referencia esencial de su vida diaria.",
+      "Déjà plus de 10 000 clients et 5 000 professionnels ont franchi le pas ! Avec 25 000 missions réussies et 98 % de satisfaction, Uptaskers est la référence incontournable de votre quotidien.":
+        "¡Ya más de 10,000 clientes y 5,000 profesionales han dado el paso! Con 25,000 misiones exitosas y un 98 % de satisfacción, Uptaskers es la referencia esencial de su vida diaria.",
       "Découvrez nos services": "Descubre nuestros servicios",
       "Note moyenne basée sur": "Puntuación media basada en",
       "+12,000 avis certifiés": "+12.000 opiniones certificadas",
@@ -1862,7 +1862,7 @@ const resources = {
   DE: {
     translation: {
       "Bienvenue sur la page": "Willkommen auf der Seite",
-      "Cette section de UpTaskers est actuellement en cours de développement.": "Dieser Bereich von UpTaskers befindet sich derzeit in der Entwicklung.",
+      "Cette section de Uptaskers est actuellement en cours de développement.": "Dieser Bereich von Uptaskers befindet sich derzeit in der Entwicklung.",
       "Notre plateforme évolue continuellement pour vous offrir la meilleure expérience. Restez à l'écoute pour les mises à jour alors que nous construisons cette ressource complète.": "Unsere Plattform entwickelt sich ständig weiter, um Ihnen das beste Erlebnis zu bieten. Bleiben Sie dran für Updates, während wir diese umfassende Ressource ausbauen.",
 
       "Légal & Confidentialité": "Legal & Privacy",
@@ -1874,17 +1874,17 @@ const resources = {
         "Contact our privacy team:",
       "Engagement de Confiance": "Commitment to Trust",
       "Votre Sécurité Avant Tout": "Your Security Above All",
-      "UpTaskers a été pensé et conçu pour vous offrir un environnement sûr et de confiance. Aucun compromis n'est fait avec vos données et votre confidentialité, pour que vous puissiez développer votre activité et recourir à des experts en toute sérénité.":
-        "UpTaskers has been designed to provide you with a safe and trusted environment. No compromise is made with your data and privacy, so you can develop your business and hire experts with peace of mind.",
+      "Uptaskers a été pensé et conçu pour vous offrir un environnement sûr et de confiance. Aucun compromis n'est fait avec vos données et votre confidentialité, pour que vous puissiez développer votre activité et recourir à des experts en toute sérénité.":
+        "Uptaskers has been designed to provide you with a safe and trusted environment. No compromise is made with your data and privacy, so you can develop your business and hire experts with peace of mind.",
       "Paiements Sécurisés": "Secure Payments",
       "Identités Vérifiées": "Verified Identities",
       "Confidentialité Protégée": "Privacy Protected",
       "1. Introduction": "1. Introduction",
-      "UpTaskers est la plateforme de référence pour la mise en relation entre professionnels qualifiés et clients. Cette politique explique comment nous recueillons, utilisons et protégeons vos informations personnelles.":
-        "UpTaskers is the leading platform for connecting qualified professionals and clients. This policy explains how we collect, use, and protect your personal information.",
+      "Uptaskers est la plateforme de référence pour la mise en relation entre professionnels qualifiés et clients. Cette politique explique comment nous recueillons, utilisons et protégeons vos informations personnelles.":
+        "Uptaskers is the leading platform for connecting qualified professionals and clients. This policy explains how we collect, use, and protect your personal information.",
       "2. Nature du Service": "2. Nature of the Service",
-      "UpTaskers permet de trouver, de contacter et de travailler avec des experts dans de multiples domaines, en garantissant la sécurité des paiements et la qualité des échanges.":
-        "UpTaskers allows you to find, contact, and work with experts in multiple fields, ensuring secure payments and quality exchanges.",
+      "Uptaskers permet de trouver, de contacter et de travailler avec des experts dans de multiples domaines, en garantissant la sécurité des paiements et la qualité des échanges.":
+        "Uptaskers allows you to find, contact, and work with experts in multiple fields, ensuring secure payments and quality exchanges.",
       "3. Données Collectées": "3. Data Collected",
       "Nous pouvons recueillir les données suivantes :":
         "We may collect the following data:",
@@ -1916,8 +1916,8 @@ const resources = {
         "Your personal data is stored on highly secure servers",
       "Les transactions financières (paiement) sont cryptées de bout en bout (PCI-DSS)":
         "Financial transactions (payment) are end-to-end encrypted (PCI-DSS)",
-      "Authentification sécurisée pour protéger l'accès à votre compte UpTaskers":
-        "Secure authentication to protect access to your UpTaskers account",
+      "Authentification sécurisée pour protéger l'accès à votre compte Uptaskers":
+        "Secure authentication to protect access to your Uptaskers account",
       "6. Partage des Données": "6. Data Sharing",
       "Nous ne vendons en aucun cas vos données personnelles. Elles peuvent être partagées dans les cas strictement nécessaires suivants :":
         "We never sell your personal data. It may be shared in the following strictly necessary cases:",
@@ -1928,8 +1928,8 @@ const resources = {
       "Afin de se conformer à des obligations légales en vigueur":
         "In order to comply with applicable legal obligations",
       "7. Vos Droits": "7. Your Rights",
-      "En tant qu'utilisateur de UpTaskers, vous disposez des droits suivants (conformément à la loi ivoirienne sur la protection des données à caractère personnel) :":
-        "As a UpTaskers user, you have the following rights (in accordance with Ivorian data protection law):",
+      "En tant qu'utilisateur de Uptaskers, vous disposez des droits suivants (conformément à la loi ivoirienne sur la protection des données à caractère personnel) :":
+        "As a Uptaskers user, you have the following rights (in accordance with Ivorian data protection law):",
       "Accéder à vos données et en demander la copie":
         "Access your data and request a copy",
       "Rectifier ou mettre à jour vos informations inexactes":
@@ -1950,11 +1950,11 @@ const resources = {
       "Propriété Intellectuelle": "Intellectual Property",
       "La structure générale du site, ainsi que les textes, images animées ou non et tous les éléments composant le site sont la propriété exclusive de":
         "The general structure of the site, as well as the texts, animated or non-animated images, and all elements making up the site are the exclusive property of",
-      "Toute reproduction, représentation, modification, publication ou adaptation de tout ou partie des éléments du site est interdite sans l'autorisation écrite préalable de UpTaskers.":
+      "Toute reproduction, représentation, modification, publication ou adaptation de tout ou partie des éléments du site est interdite sans l'autorisation écrite préalable de Uptaskers.":
         "Any total or partial representation of this site by any means whatsoever, without the express permission of the website operator, is prohibited.",
       Responsabilité: "Responsibility",
-      "est une plateforme de mise en relation entre clients et prestataires. UpTaskers agit uniquement comme intermédiaire technique et ne réalise pas les prestations proposées sur la plateforme. En conséquence, UpTaskers ne peut être tenue responsable de la qualité, de l'exécution ou de la non-exécution des services fournis par les prestataires.":
-        "is a matchmaking platform between clients and service providers. UpTaskers acts solely as a technical intermediary and does not carry out the services offered on the platform. Consequently, UpTaskers cannot be held responsible for the quality, execution, or non-execution of the services provided by the service providers.",
+      "est une plateforme de mise en relation entre clients et prestataires. Uptaskers agit uniquement comme intermédiaire technique et ne réalise pas les prestations proposées sur la plateforme. En conséquence, Uptaskers ne peut être tenue responsable de la qualité, de l'exécution ou de la non-exécution des services fournis par les prestataires.":
+        "is a matchmaking platform between clients and service providers. Uptaskers acts solely as a technical intermediary and does not carry out the services offered on the platform. Consequently, Uptaskers cannot be held responsible for the quality, execution, or non-execution of the services provided by the service providers.",
 
       "Dernière mise à jour : 4 Juin 2026": "Last updated: June 4, 2026",
       "Acceptation des Conditions": "Acceptance of Terms",
@@ -1998,8 +1998,8 @@ const resources = {
       "Se connecter": "Anmelden",
       "Connectez-vous avec": "Verbinden Sie sich mit",
       "l'excellence.": "Exzellenz.",
-      "Notre plateforme révolutionne la mise en relation entre professionnels et clients. Que vous ayez besoin d'un expert pour une mission ponctuelle ou que vous cherchiez à développer votre clientèle, UpTaskers crée un environnement de confiance.":
-        "Unsere Plattform revolutioniert die Verbindung zwischen Profis und Kunden. Ob Sie einen Experten für einen einmaligen Einsatz brauchen oder Ihren Kundenstamm ausbauen möchten, UpTaskers schafft ein Umfeld des Vertrauens.",
+      "Notre plateforme révolutionne la mise en relation entre professionnels et clients. Que vous ayez besoin d'un expert pour une mission ponctuelle ou que vous cherchiez à développer votre clientèle, Uptaskers crée un environnement de confiance.":
+        "Unsere Plattform revolutioniert die Verbindung zwischen Profis und Kunden. Ob Sie einen Experten für einen einmaligen Einsatz brauchen oder Ihren Kundenstamm ausbauen möchten, Uptaskers schafft ein Umfeld des Vertrauens.",
       Commencer: "Loslegen",
       "Une mise en relation rapide et simplifiée.":
         "Eine schnelle und vereinfachte Verbindung.",
@@ -2013,16 +2013,16 @@ const resources = {
       "S'inscrire": "Anmelden",
       Conçu: "Entwickelt",
       "pour exceller.": "für Exzellenz.",
-      "La vocation de UpTaskers est simple : vous faire gagner du temps en vous offrant un accès instantané aux meilleurs talents de votre région.":
-        "Die Berufung von UpTaskers ist einfach: Ihnen Zeit zu sparen, indem wir Ihnen sofortigen Zugang zu den besten Talenten in Ihrer Region bieten.",
+      "La vocation de Uptaskers est simple : vous faire gagner du temps en vous offrant un accès instantané aux meilleurs talents de votre région.":
+        "Die Berufung von Uptaskers ist einfach: Ihnen Zeit zu sparen, indem wir Ihnen sofortigen Zugang zu den besten Talenten in Ihrer Region bieten.",
       "Nous combinons l'efficacité d'une plateforme moderne à l'expertise de professionnels vérifiés, pour que chaque service rendu soit une expérience parfaitement fluide.":
         "Wir kombinieren die Effizienz einer modernen Plattform mit der Expertise verifizierter Fachleute, damit jede erbrachte Dienstleistung ein perfekt reibungsloses Erlebnis ist.",
       "Réseau Fiable": "Zuverlässiges Netzwerk",
       "Des talents": "Zertifizierte",
       "certifiés.": "Talente.",
       "Profils vérifiés": "Verifizierte Profile",
-      "Chaque prestataire sur UpTaskers passe par un processus de vérification d'identité approfondi pour garantir votre sécurité.":
-        "Jeder Anbieter auf UpTaskers durchläuft einen gründlichen Identitätsprüfungsprozess, um Ihre Sicherheit zu gewährleisten.",
+      "Chaque prestataire sur Uptaskers passe par un processus de vérification d'identité approfondi pour garantir votre sécurité.":
+        "Jeder Anbieter auf Uptaskers durchläuft einen gründlichen Identitätsprüfungsprozess, um Ihre Sicherheit zu gewährleisten.",
       "Avis authentiques": "Echte Bewertungen",
       "Lisez les retours d'expérience réels. Seuls les clients ayant utilisé les services peuvent laisser un avis.":
         "Lesen Sie echtes Feedback. Nur Kunden, die die Dienste genutzt haben, können eine Bewertung abgeben.",
@@ -2126,7 +2126,7 @@ const resources = {
       Peinture: "Malerei",
       Vétérinaire: "Tierarzt",
       "Agent immobilier": "Immobilienmakler",
-      "Journal UpTaskers": "UpTaskers Journal",
+      "Journal Uptaskers": "Uptaskers Journal",
       "Guides, astuces et conseils pour clients et professionnels":
         "Leitfäden, Tipps und Ratschläge für Kunden und Fachleute",
       "Lire la suite": "Weiterlesen",
@@ -2137,16 +2137,16 @@ const resources = {
       "Découvrir nos services": "Entdecken Sie unsere Dienstleistungen",
       "Découvrez les tendances actuelles et les domaines les plus demandés par nos clients pour optimiser votre profil et saisir de nouvelles opportunités.":
         "Entdecken Sie aktuelle Trends und die von unseren Kunden am häufigsten nachgefragten Bereiche, um Ihr Profil zu optimieren und neue Chancen zu nutzen.",
-      "UpTaskers facilite la rencontre entre clients et professionnels qualifiés pour des collaborations simples, rapides et efficaces.":
-        "UpTaskers erleichtert das Zusammentreffen von Kunden und qualifizierten Fachleuten für einfache, schnelle und effektive Zusammenarbeiten.",
+      "Uptaskers facilite la rencontre entre clients et professionnels qualifiés pour des collaborations simples, rapides et efficaces.":
+        "Uptaskers erleichtert das Zusammentreffen von Kunden und qualifizierten Fachleuten für einfache, schnelle und effektive Zusammenarbeiten.",
       "Que vous soyez une entreprise à la recherche d'une expertise précise ou un particulier ayant besoin d'un coup de main, notre plateforme vous connecte aux meilleurs talents locaux.":
         "Ob Sie ein Unternehmen sind, das nach spezifischem Fachwissen sucht, oder eine Privatperson, die Hilfe benötigt, unsere Plattform verbindet Sie mit den besten lokalen Talenten.",
       "Avis des utilisateurs et statistiques":
         "Benutzerbewertungen und Statistiken",
-      "Découvrez ce que notre communauté pense de UpTaskers et rejoignez nos milliers d'utilisateurs actifs.":
-        "Entdecken Sie, was unsere Community über UpTaskers denkt, und schließen Sie sich unseren Tausenden aktiven Nutzern an.",
-      "Avec plus de 10 000 utilisateurs et 5 000 professionnels inscrits, UpTaskers est fier de maintenir un taux de satisfaction de 98% sur plus de 25 000 missions réalisées.":
-        "Mit mehr als 10.000 Nutzern und 5.000 registrierten Fachleuten ist UpTaskers stolz darauf, eine Zufriedenheitsrate von 98 % bei über 25.000 abgeschlossenen Missionen aufrechtzuerhalten.",
+      "Découvrez ce que notre communauté pense de Uptaskers et rejoignez nos milliers d'utilisateurs actifs.":
+        "Entdecken Sie, was unsere Community über Uptaskers denkt, und schließen Sie sich unseren Tausenden aktiven Nutzern an.",
+      "Avec plus de 10 000 utilisateurs et 5 000 professionnels inscrits, Uptaskers est fier de maintenir un taux de satisfaction de 98% sur plus de 25 000 missions réalisées.":
+        "Mit mehr als 10.000 Nutzern und 5.000 registrierten Fachleuten ist Uptaskers stolz darauf, eine Zufriedenheitsrate von 98 % bei über 25.000 abgeschlossenen Missionen aufrechtzuerhalten.",
       "Chaque freelance est sélectionné avec une extrême précision, garantissant un niveau d'expertise maximal et une intégration parfaite dans vos équipes.":
         "Jeder Freelancer wird mit äußerster Präzision ausgewählt und garantiert maximale Expertise und eine perfekte Integration in Ihre Teams.",
       "Objectif 2030": "Ziel 2030",
@@ -2166,8 +2166,8 @@ const resources = {
       Ressources: "Ressourcen",
       "Avis clients": "Kundenbewertungen",
       "Vérification des profils": "Profilüberprüfung",
-      "Garantie UpTaskers": "UpTaskers-Garantie",
-      "À propos de UpTaskers": "Über UpTaskers",
+      "Garantie Uptaskers": "Uptaskers-Garantie",
+      "À propos de Uptaskers": "Über Uptaskers",
       "Nous contacter": "Kontaktiere uns",
       "Support client": "Kundensupport",
       "Conditions d'utilisation": "Nutzungsbedingungen",
@@ -2199,8 +2199,8 @@ const resources = {
       Plateau: "Plateau",
       "Abidjan, Côte d'Ivoire": "Abidjan, Elfenbeinküste",
       "Téléchargez notre application": "Laden Sie unsere App herunter",
-      "Emportez UpTaskers partout avec vous. Gérez vos projets, échangez avec des pros et suivez l'avancement de vos demandes depuis votre mobile.":
-        "Nehmen Sie UpTaskers überallhin mit. Verwalten Sie Ihre Projekte sicher, tauschen Sie sich einfach mit Profis aus und verfolgen Sie den Fortschritt Ihrer Anfragen auf Ihrem Handy.",
+      "Emportez Uptaskers partout avec vous. Gérez vos projets, échangez avec des pros et suivez l'avancement de vos demandes depuis votre mobile.":
+        "Nehmen Sie Uptaskers überallhin mit. Verwalten Sie Ihre Projekte sicher, tauschen Sie sich einfach mit Profis aus und verfolgen Sie den Fortschritt Ihrer Anfragen auf Ihrem Handy.",
       "Centre de ressources": "Ressourcenzentrum",
       "Outils et guides pour": "Tools und Leitfäden für",
       "réussir.": "Erfolg.",
@@ -2232,14 +2232,14 @@ const resources = {
       "Les meilleures stratégies pour fidéliser votre clientèle et développer votre e-réputation.":
         "Die besten Strategien zur Kundenbindung und zum Ausbau Ihrer E-Reputation.",
       "Formations Vidéo": "Video-Schulungen",
-      "Apprenez à maîtriser toutes les fonctionnalités de UpTaskers en quelques minutes grâce à nos tutoriels interactifs.":
-        "Lernen Sie innerhalb weniger Minuten alle UpTaskers-Funktionen dank unserer interaktiven Tutorials zu beherrschen.",
+      "Apprenez à maîtriser toutes les fonctionnalités de Uptaskers en quelques minutes grâce à nos tutoriels interactifs.":
+        "Lernen Sie innerhalb weniger Minuten alle Uptaskers-Funktionen dank unserer interaktiven Tutorials zu beherrschen.",
       "Voir les tutoriels": "Tutorials ansehen",
       "Formation vidéo": "Video-Training",
       "À propos de nous": "Über uns",
-      "Découvrez UpTaskers": "Entdecken Sie UpTaskers",
-      "Bienvenue sur UpTaskers, une plateforme dédiée à la mise en relation entre particuliers, entreprises et professionnels qualifiés.":
-        "Willkommen bei UpTaskers, einer Plattform zur Vermittlung zwischen Privatpersonen, Unternehmen und qualifizierten Fachleuten.",
+      "Découvrez Uptaskers": "Entdecken Sie Uptaskers",
+      "Bienvenue sur Uptaskers, une plateforme dédiée à la mise en relation entre particuliers, entreprises et professionnels qualifiés.":
+        "Willkommen bei Uptaskers, einer Plattform zur Vermittlung zwischen Privatpersonen, Unternehmen und qualifizierten Fachleuten.",
       "Qui sommes-nous ?": "Wer sind wir?",
       "Notre mission est simple : permettre à chacun de trouver rapidement des prestataires compétents et de confiance pour répondre à ses besoins, tout en offrant aux professionnels une opportunité de développer leur activité et de gagner en visibilité.":
         "Unsere Mission ist einfach: Jedem zu ermöglichen, schnell kompetente und vertrauenswürdige Dienstleister für seine Bedürfnisse zu finden, und gleichzeitig Fachleuten die Möglichkeit zu geben, ihr Geschäft auszubauen und an Sichtbarkeit zu gewinnen.",
@@ -2307,8 +2307,8 @@ const resources = {
       "Avantages Exclusifs": "Exklusive Vorteile",
       "Maximisez votre ": "Maximieren Sie Ihre ",
       "impact.": "Wirkung.",
-      "Que vous soyez un professionnel cherchant à développer sa clientèle ou un particulier en quête d'experts de confiance, UpTaskers vous offre les meilleurs outils pour réussir.":
-        "Egal, ob Sie ein Profi sind, der seinen Kundenstamm ausbauen möchte, oder eine Privatperson auf der Suche nach vertrauenswürdigen Experten, UpTaskers bietet Ihnen die besten Werkzeuge, um erfolgreich zu sein.",
+      "Que vous soyez un professionnel cherchant à développer sa clientèle ou un particulier en quête d'experts de confiance, Uptaskers vous offre les meilleurs outils pour réussir.":
+        "Egal, ob Sie ein Profi sind, der seinen Kundenstamm ausbauen möchte, oder eine Privatperson auf der Suche nach vertrauenswürdigen Experten, Uptaskers bietet Ihnen die besten Werkzeuge, um erfolgreich zu sein.",
       "Développez votre activité": "Entwickeln Sie Ihr Geschäft",
       "Accédez à une large base de clients qualifiés et augmentez votre chiffre d'affaires sans effort de prospection.":
         "Erhalten Sie Zugang zu einem großen Stamm qualifizierter Kunden und steigern Sie Ihren Umsatz ohne Akquisitionsaufwand.",
@@ -2330,7 +2330,7 @@ const resources = {
       "Prêt à libérer votre potentiel ?": "Bereit, Ihr Potenzial freizusetzen?",
       "Rejoignez la plateforme qui transforme la façon dont les professionnels et les clients collaborent.":
         "Treten Sie der Plattform bei, die die Art und Weise verändert, wie Fachleute und Kunden zusammenarbeiten.",
-      "Rejoindre UpTaskers maintenant": "Treten Sie UpTaskers jetzt bei",
+      "Rejoindre Uptaskers maintenant": "Treten Sie Uptaskers jetzt bei",
       "Tendances du mois": "Monatliche Trends",
       "Les catégories les plus utilisées":
         "Am häufigsten verwendete Kategorien",
@@ -2350,8 +2350,8 @@ const resources = {
       "Technicien IT": "IT-Techniker",
       avis: "Bewertungen",
       "Voir le profil": "Profil ansehen",
-      "Déjà plus de 10 000 clients et 5 000 professionnels ont franchi le pas ! Avec 25 000 missions réussies et 98 % de satisfaction, UpTaskers est la référence incontournable de votre quotidien.":
-        "Bereits über 10.000 Kunden und 5.000 Fachleute haben den Schritt gewagt! Mit 25.000 erfolgreichen Missionen und 98 % Zufriedenheit ist UpTaskers die unverzichtbare Referenz für Ihren Alltag.",
+      "Déjà plus de 10 000 clients et 5 000 professionnels ont franchi le pas ! Avec 25 000 missions réussies et 98 % de satisfaction, Uptaskers est la référence incontournable de votre quotidien.":
+        "Bereits über 10.000 Kunden und 5.000 Fachleute haben den Schritt gewagt! Mit 25.000 erfolgreichen Missionen und 98 % Zufriedenheit ist Uptaskers die unverzichtbare Referenz für Ihren Alltag.",
       "Découvrez nos services": "Entdecken Sie unsere Dienstleistungen",
       "Note moyenne basée sur": "Durchschnittliche Bewertung basierend auf",
       "+12,000 avis certifiés": "+12.000 zertifizierten Bewertungen",
@@ -2483,7 +2483,7 @@ const resources = {
   IT: {
     translation: {
       "Bienvenue sur la page": "Benvenuto nella pagina",
-      "Cette section de UpTaskers est actuellement en cours de développement.": "Questa sezione di UpTaskers è attualmente in fase di sviluppo.",
+      "Cette section de Uptaskers est actuellement en cours de développement.": "Questa sezione di Uptaskers è attualmente in fase di sviluppo.",
       "Notre plateforme évolue continuellement pour vous offrir la meilleure expérience. Restez à l'écoute pour les mises à jour alors que nous construisons cette ressource complète.": "La nostra piattaforma è in continua evoluzione per offrirti la migliore esperienza. Resta sintonizzato per gli aggiornamenti mentre costruiamo questa risorsa completa.",
 
       "Légal & Confidentialité": "Legal & Privacy",
@@ -2495,17 +2495,17 @@ const resources = {
         "Contact our privacy team:",
       "Engagement de Confiance": "Commitment to Trust",
       "Votre Sécurité Avant Tout": "Your Security Above All",
-      "UpTaskers a été pensé et conçu pour vous offrir un environnement sûr et de confiance. Aucun compromis n'est fait avec vos données et votre confidentialité, pour que vous puissiez développer votre activité et recourir à des experts en toute sérénité.":
-        "UpTaskers has been designed to provide you with a safe and trusted environment. No compromise is made with your data and privacy, so you can develop your business and hire experts with peace of mind.",
+      "Uptaskers a été pensé et conçu pour vous offrir un environnement sûr et de confiance. Aucun compromis n'est fait avec vos données et votre confidentialité, pour que vous puissiez développer votre activité et recourir à des experts en toute sérénité.":
+        "Uptaskers has been designed to provide you with a safe and trusted environment. No compromise is made with your data and privacy, so you can develop your business and hire experts with peace of mind.",
       "Paiements Sécurisés": "Secure Payments",
       "Identités Vérifiées": "Verified Identities",
       "Confidentialité Protégée": "Privacy Protected",
       "1. Introduction": "1. Introduction",
-      "UpTaskers est la plateforme de référence pour la mise en relation entre professionnels qualifiés et clients. Cette politique explique comment nous recueillons, utilisons et protégeons vos informations personnelles.":
-        "UpTaskers is the leading platform for connecting qualified professionals and clients. This policy explains how we collect, use, and protect your personal information.",
+      "Uptaskers est la plateforme de référence pour la mise en relation entre professionnels qualifiés et clients. Cette politique explique comment nous recueillons, utilisons et protégeons vos informations personnelles.":
+        "Uptaskers is the leading platform for connecting qualified professionals and clients. This policy explains how we collect, use, and protect your personal information.",
       "2. Nature du Service": "2. Nature of the Service",
-      "UpTaskers permet de trouver, de contacter et de travailler avec des experts dans de multiples domaines, en garantissant la sécurité des paiements et la qualité des échanges.":
-        "UpTaskers allows you to find, contact, and work with experts in multiple fields, ensuring secure payments and quality exchanges.",
+      "Uptaskers permet de trouver, de contacter et de travailler avec des experts dans de multiples domaines, en garantissant la sécurité des paiements et la qualité des échanges.":
+        "Uptaskers allows you to find, contact, and work with experts in multiple fields, ensuring secure payments and quality exchanges.",
       "3. Données Collectées": "3. Data Collected",
       "Nous pouvons recueillir les données suivantes :":
         "We may collect the following data:",
@@ -2537,8 +2537,8 @@ const resources = {
         "Your personal data is stored on highly secure servers",
       "Les transactions financières (paiement) sont cryptées de bout en bout (PCI-DSS)":
         "Financial transactions (payment) are end-to-end encrypted (PCI-DSS)",
-      "Authentification sécurisée pour protéger l'accès à votre compte UpTaskers":
-        "Secure authentication to protect access to your UpTaskers account",
+      "Authentification sécurisée pour protéger l'accès à votre compte Uptaskers":
+        "Secure authentication to protect access to your Uptaskers account",
       "6. Partage des Données": "6. Data Sharing",
       "Nous ne vendons en aucun cas vos données personnelles. Elles peuvent être partagées dans les cas strictement nécessaires suivants :":
         "We never sell your personal data. It may be shared in the following strictly necessary cases:",
@@ -2549,8 +2549,8 @@ const resources = {
       "Afin de se conformer à des obligations légales en vigueur":
         "In order to comply with applicable legal obligations",
       "7. Vos Droits": "7. Your Rights",
-      "En tant qu'utilisateur de UpTaskers, vous disposez des droits suivants (conformément à la loi ivoirienne sur la protection des données à caractère personnel) :":
-        "As a UpTaskers user, you have the following rights (in accordance with Ivorian data protection law):",
+      "En tant qu'utilisateur de Uptaskers, vous disposez des droits suivants (conformément à la loi ivoirienne sur la protection des données à caractère personnel) :":
+        "As a Uptaskers user, you have the following rights (in accordance with Ivorian data protection law):",
       "Accéder à vos données et en demander la copie":
         "Access your data and request a copy",
       "Rectifier ou mettre à jour vos informations inexactes":
@@ -2571,11 +2571,11 @@ const resources = {
       "Propriété Intellectuelle": "Intellectual Property",
       "La structure générale du site, ainsi que les textes, images animées ou non et tous les éléments composant le site sont la propriété exclusive de":
         "The general structure of the site, as well as the texts, animated or non-animated images, and all elements making up the site are the exclusive property of",
-      "Toute reproduction, représentation, modification, publication ou adaptation de tout ou partie des éléments du site est interdite sans l'autorisation écrite préalable de UpTaskers.":
+      "Toute reproduction, représentation, modification, publication ou adaptation de tout ou partie des éléments du site est interdite sans l'autorisation écrite préalable de Uptaskers.":
         "Any total or partial representation of this site by any means whatsoever, without the express permission of the website operator, is prohibited.",
       Responsabilité: "Responsibility",
-      "est une plateforme de mise en relation entre clients et prestataires. UpTaskers agit uniquement comme intermédiaire technique et ne réalise pas les prestations proposées sur la plateforme. En conséquence, UpTaskers ne peut être tenue responsable de la qualité, de l'exécution ou de la non-exécution des services fournis par les prestataires.":
-        "is a matchmaking platform between clients and service providers. UpTaskers acts solely as a technical intermediary and does not carry out the services offered on the platform. Consequently, UpTaskers cannot be held responsible for the quality, execution, or non-execution of the services provided by the service providers.",
+      "est une plateforme de mise en relation entre clients et prestataires. Uptaskers agit uniquement comme intermédiaire technique et ne réalise pas les prestations proposées sur la plateforme. En conséquence, Uptaskers ne peut être tenue responsable de la qualité, de l'exécution ou de la non-exécution des services fournis par les prestataires.":
+        "is a matchmaking platform between clients and service providers. Uptaskers acts solely as a technical intermediary and does not carry out the services offered on the platform. Consequently, Uptaskers cannot be held responsible for the quality, execution, or non-execution of the services provided by the service providers.",
 
       "Dernière mise à jour : 4 Juin 2026": "Last updated: June 4, 2026",
       "Acceptation des Conditions": "Acceptance of Terms",
@@ -2619,8 +2619,8 @@ const resources = {
       "Se connecter": "Accedi",
       "Connectez-vous avec": "Collegati con",
       "l'excellence.": "l'eccellenza.",
-      "Notre plateforme révolutionne la mise en relation entre professionnels et clients. Que vous ayez besoin d'un expert pour une mission ponctuelle ou que vous cherchiez à développer votre clientèle, UpTaskers crée un environnement de confiance.":
-        "La nostra piattaforma rivoluziona la connessione tra professionisti e clienti. Che tu abbia bisogno di un esperto per una missione una tantum o stia cercando di sviluppare la tua clientela, UpTaskers crea un ambiente di fiducia.",
+      "Notre plateforme révolutionne la mise en relation entre professionnels et clients. Que vous ayez besoin d'un expert pour une mission ponctuelle ou que vous cherchiez à développer votre clientèle, Uptaskers crée un environnement de confiance.":
+        "La nostra piattaforma rivoluziona la connessione tra professionisti e clienti. Che tu abbia bisogno di un esperto per una missione una tantum o stia cercando di sviluppare la tua clientela, Uptaskers crea un ambiente di fiducia.",
       Commencer: "Iniziare",
       "Une mise en relation rapide et simplifiée.":
         "Una connessione rapida e semplificata.",
@@ -2634,16 +2634,16 @@ const resources = {
       "S'inscrire": "Iscriviti",
       Conçu: "Progettato",
       "pour exceller.": "per eccellere.",
-      "La vocation de UpTaskers est simple : vous faire gagner du temps en vous offrant un accès instantané aux meilleurs talents de votre région.":
-        "La vocazione di UpTaskers è semplice: farti risparmiare tempo offrendoti un accesso immediato ai migliori talenti della tua zona.",
+      "La vocation de Uptaskers est simple : vous faire gagner du temps en vous offrant un accès instantané aux meilleurs talents de votre région.":
+        "La vocazione di Uptaskers è semplice: farti risparmiare tempo offrendoti un accesso immediato ai migliori talenti della tua zona.",
       "Nous combinons l'efficacité d'une plateforme moderne à l'expertise de professionnels vérifiés, pour que chaque service rendu soit une expérience parfaitement fluide.":
         "Uniamo l'efficienza di una piattaforma moderna con l'esperienza di professionisti verificati, affinché ogni servizio reso sia un'esperienza perfettamente fluida.",
       "Réseau Fiable": "Rete Affidabile",
       "Des talents": "Talenti",
       "certifiés.": "certificati.",
       "Profils vérifiés": "Profili verificati",
-      "Chaque prestataire sur UpTaskers passe par un processus de vérification d'identité approfondi pour garantir votre sécurité.":
-        "Ogni fornitore su UpTaskers passa attraverso un accurato processo di verifica dell'identità per garantire la tua sicurezza.",
+      "Chaque prestataire sur Uptaskers passe par un processus de vérification d'identité approfondi pour garantir votre sécurité.":
+        "Ogni fornitore su Uptaskers passa attraverso un accurato processo di verifica dell'identità per garantire la tua sicurezza.",
       "Avis authentiques": "Recensioni autentiche",
       "Lisez les retours d'expérience réels. Seuls les clients ayant utilisé les services peuvent laisser un avis.":
         "Leggi feedback reali. Solo i clienti che hanno utilizzato i servizi possono lasciare una recensione.",
@@ -2747,7 +2747,7 @@ const resources = {
       Peinture: "Pittura",
       Vétérinaire: "Veterinario",
       "Agent immobilier": "Agente immobiliare",
-      "Journal UpTaskers": "Giornale UpTaskers",
+      "Journal Uptaskers": "Giornale Uptaskers",
       "Guides, astuces et conseils pour clients et professionnels":
         "Guide, trucchi e consigli per clienti e professionisti",
       "Lire la suite": "Leggi di più",
@@ -2758,16 +2758,16 @@ const resources = {
       "Découvrir nos services": "Scopri i nostri servizi",
       "Découvrez les tendances actuelles et les domaines les plus demandés par nos clients pour optimiser votre profil et saisir de nouvelles opportunités.":
         "Scopri le tendenze attuali e i domini più richiesti dai nostri clienti per ottimizzare il tuo profilo e cogliere nuove opportunità.",
-      "UpTaskers facilite la rencontre entre clients et professionnels qualifiés pour des collaborations simples, rapides et efficaces.":
-        "UpTaskers facilita l'incontro tra clienti e professionisti qualificati per collaborazioni semplici, veloci ed efficaci.",
+      "Uptaskers facilite la rencontre entre clients et professionnels qualifiés pour des collaborations simples, rapides et efficaces.":
+        "Uptaskers facilita l'incontro tra clienti e professionisti qualificati per collaborazioni semplici, veloci ed efficaci.",
       "Que vous soyez une entreprise à la recherche d'une expertise précise ou un particulier ayant besoin d'un coup de main, notre plateforme vous connecte aux meilleurs talents locaux.":
         "Sia che tu sia un'azienda alla ricerca di un'esperienza specifica o un individuo che ha bisogno di una mano, la nostra piattaforma ti connette ai migliori talenti locali.",
       "Avis des utilisateurs et statistiques":
         "Recensioni degli utenti e statistiche",
-      "Découvrez ce que notre communauté pense de UpTaskers et rejoignez nos milliers d'utilisateurs actifs.":
-        "Scopri cosa pensa la nostra community di UpTaskers e unisciti ai nostri migliaia di utenti attivi.",
-      "Avec plus de 10 000 utilisateurs et 5 000 professionnels inscrits, UpTaskers est fier de maintenir un taux de satisfaction de 98% sur plus de 25 000 missions réalisées.":
-        "Con oltre 10.000 utenti e 5.000 professionisti iscritti, UpTaskers è orgogliosa di mantenere un tasso di soddisfazione del 98% su oltre 25.000 missioni completate.",
+      "Découvrez ce que notre communauté pense de Uptaskers et rejoignez nos milliers d'utilisateurs actifs.":
+        "Scopri cosa pensa la nostra community di Uptaskers e unisciti ai nostri migliaia di utenti attivi.",
+      "Avec plus de 10 000 utilisateurs et 5 000 professionnels inscrits, Uptaskers est fier de maintenir un taux de satisfaction de 98% sur plus de 25 000 missions réalisées.":
+        "Con oltre 10.000 utenti e 5.000 professionisti iscritti, Uptaskers è orgogliosa di mantenere un tasso di soddisfazione del 98% su oltre 25.000 missioni completate.",
       "Chaque freelance est sélectionné avec une extrême précision, garantissant un niveau d'expertise maximal et une intégration parfaite dans vos équipes.":
         "Ogni freelance viene selezionato con estrema precisione, garantendo la massima esperienza e una perfetta integrazione nei tuoi team.",
       "Objectif 2030": "Obiettivo 2030",
@@ -2787,8 +2787,8 @@ const resources = {
       Ressources: "Risorse",
       "Avis clients": "Recensioni dei clienti",
       "Vérification des profils": "Verifica dei profili",
-      "Garantie UpTaskers": "Garanzia UpTaskers",
-      "À propos de UpTaskers": "Informazioni su UpTaskers",
+      "Garantie Uptaskers": "Garanzia Uptaskers",
+      "À propos de Uptaskers": "Informazioni su Uptaskers",
       "Nous contacter": "Contattaci",
       "Support client": "Assistenza clienti",
       "Conditions d'utilisation": "Termini di utilizzo",
@@ -2820,8 +2820,8 @@ const resources = {
       Plateau: "Plateau",
       "Abidjan, Côte d'Ivoire": "Abidjan, Costa d'Avorio",
       "Téléchargez notre application": "Scarica la nostra app",
-      "Emportez UpTaskers partout avec vous. Gérez vos projets, échangez avec des pros et suivez l'avancement de vos demandes depuis votre mobile.":
-        "Porta UpTaskers ovunque ti pare. Gestisci i tuoi progetti senza sforzo, scambia facilmente con i professionisti e segui i progressi in movimento con il tuo cellulare.",
+      "Emportez Uptaskers partout avec vous. Gérez vos projets, échangez avec des pros et suivez l'avancement de vos demandes depuis votre mobile.":
+        "Porta Uptaskers ovunque ti pare. Gestisci i tuoi progetti senza sforzo, scambia facilmente con i professionisti e segui i progressi in movimento con il tuo cellulare.",
       "Centre de ressources": "Centro risorse",
       "Outils et guides pour": "Strumenti e guide per",
       "réussir.": "avere successo.",
@@ -2853,14 +2853,14 @@ const resources = {
       "Les meilleures stratégies pour fidéliser votre clientèle et développer votre e-réputation.":
         "Le migliori strategie per fidelizzare la clientela e sviluppare la tua e-reputation.",
       "Formations Vidéo": "Corsi di formazione video",
-      "Apprenez à maîtriser toutes les fonctionnalités de UpTaskers en quelques minutes grâce à nos tutoriels interactifs.":
-        "Impara a padroneggiare tutte le funzionalità di UpTaskers in pochi minuti grazie ai nostri tutorial interattivi.",
+      "Apprenez à maîtriser toutes les fonctionnalités de Uptaskers en quelques minutes grâce à nos tutoriels interactifs.":
+        "Impara a padroneggiare tutte le funzionalità di Uptaskers in pochi minuti grazie ai nostri tutorial interattivi.",
       "Voir les tutoriels": "Visualizza i tutorial",
       "Formation vidéo": "Formazione video",
       "À propos de nous": "Riguardo a noi",
-      "Découvrez UpTaskers": "Scopri UpTaskers",
-      "Bienvenue sur UpTaskers, une plateforme dédiée à la mise en relation entre particuliers, entreprises et professionnels qualifiés.":
-        "Benvenuti su UpTaskers, una piattaforma dedicata a mettere in contatto individui, aziende e professionisti qualificati.",
+      "Découvrez Uptaskers": "Scopri Uptaskers",
+      "Bienvenue sur Uptaskers, une plateforme dédiée à la mise en relation entre particuliers, entreprises et professionnels qualifiés.":
+        "Benvenuti su Uptaskers, una piattaforma dedicata a mettere in contatto individui, aziende e professionisti qualificati.",
       "Qui sommes-nous ?": "Chi siamo?",
       "Notre mission est simple : permettre à chacun de trouver rapidement des prestataires compétents et de confiance pour répondre à ses besoins, tout en offrant aux professionnels une opportunité de développer leur activité et de gagner en visibilité.":
         "La nostra missione è semplice: consentire a tutti di trovare rapidamente fornitori competenti e fidati per soddisfare le proprie esigenze, offrendo allo stesso tempo ai professionisti l'opportunità di sviluppare la propria attività e ottenere visibilità.",
@@ -2928,8 +2928,8 @@ const resources = {
       "Avantages Exclusifs": "Vantaggi Esclusivi",
       "Maximisez votre ": "Massimizza il tuo ",
       "impact.": "impatto.",
-      "Que vous soyez un professionnel cherchant à développer sa clientèle ou un particulier en quête d'experts de confiance, UpTaskers vous offre les meilleurs outils pour réussir.":
-        "Che tu sia un professionista che cerca di sviluppare la propria clientela o un individuo alla ricerca di esperti di fiducia, UpTaskers ti offre i migliori strumenti per avere successo.",
+      "Que vous soyez un professionnel cherchant à développer sa clientèle ou un particulier en quête d'experts de confiance, Uptaskers vous offre les meilleurs outils pour réussir.":
+        "Che tu sia un professionista che cerca di sviluppare la propria clientela o un individuo alla ricerca di esperti di fiducia, Uptaskers ti offre i migliori strumenti per avere successo.",
       "Développez votre activité": "Sviluppa la tua attività",
       "Accédez à une large base de clients qualifiés et augmentez votre chiffre d'affaires sans effort de prospection.":
         "Accedi a un vasto database di clienti qualificati e aumenta il tuo fatturato senza sforzo di prospezione.",
@@ -2952,7 +2952,7 @@ const resources = {
         "Pronto a liberare il tuo potenziale?",
       "Rejoignez la plateforme qui transforme la façon dont les professionnels et les clients collaborent.":
         "Unisciti alla piattaforma che trasforma il modo in cui professionisti e clienti collaborano.",
-      "Rejoindre UpTaskers maintenant": "Unisciti a UpTaskers ora",
+      "Rejoindre Uptaskers maintenant": "Unisciti a Uptaskers ora",
       "Tendances du mois": "Tendenze del mese",
       "Les catégories les plus utilisées": "Categorie più utilizzate",
       "Découvrez les services les plus populaires ce mois-ci et trouvez l'expert idéal.":
@@ -2971,8 +2971,8 @@ const resources = {
       "Technicien IT": "Tecnico IT",
       avis: "recensioni",
       "Voir le profil": "Vedi profilo",
-      "Déjà plus de 10 000 clients et 5 000 professionnels ont franchi le pas ! Avec 25 000 missions réussies et 98 % de satisfaction, UpTaskers est la référence incontournable de votre quotidien.":
-        "Già più di 10.000 clienti e 5.000 professionisti hanno fatto il grande passo! Con 25.000 missioni compiute e il 98% di soddisfazione, UpTaskers è il punto di riferimento essenziale per la vita di tutti i giorni.",
+      "Déjà plus de 10 000 clients et 5 000 professionnels ont franchi le pas ! Avec 25 000 missions réussies et 98 % de satisfaction, Uptaskers est la référence incontournable de votre quotidien.":
+        "Già più di 10.000 clienti e 5.000 professionisti hanno fatto il grande passo! Con 25.000 missioni compiute e il 98% di soddisfazione, Uptaskers è il punto di riferimento essenziale per la vita di tutti i giorni.",
       "Découvrez nos services": "Scopri i nostri servizi",
       "Note moyenne basée sur": "Valutazione media basata su",
       "+12,000 avis certifiés": "+12.000 recensioni certificate",
@@ -3106,7 +3106,7 @@ const resources = {
   PT: {
     translation: {
       "Bienvenue sur la page": "Bem-vindo à página",
-      "Cette section de UpTaskers est actuellement en cours de développement.": "Esta seção do UpTaskers está atualmente em desenvolvimento.",
+      "Cette section de Uptaskers est actuellement en cours de développement.": "Esta seção do Uptaskers está atualmente em desenvolvimento.",
       "Notre plateforme évolue continuellement pour vous offrir la meilleure expérience. Restez à l'écoute pour les mises à jour alors que nous construisons cette ressource complète.": "Nossa plataforma está em contínua evolução para lhe oferecer a melhor experiência. Fique atento às atualizações enquanto construímos este recurso abrangente.",
 
       "Légal & Confidentialité": "Legal & Privacy",
@@ -3118,17 +3118,17 @@ const resources = {
         "Contact our privacy team:",
       "Engagement de Confiance": "Commitment to Trust",
       "Votre Sécurité Avant Tout": "Your Security Above All",
-      "UpTaskers a été pensé et conçu pour vous offrir un environnement sûr et de confiance. Aucun compromis n'est fait avec vos données et votre confidentialité, pour que vous puissiez développer votre activité et recourir à des experts en toute sérénité.":
-        "UpTaskers has been designed to provide you with a safe and trusted environment. No compromise is made with your data and privacy, so you can develop your business and hire experts with peace of mind.",
+      "Uptaskers a été pensé et conçu pour vous offrir un environnement sûr et de confiance. Aucun compromis n'est fait avec vos données et votre confidentialité, pour que vous puissiez développer votre activité et recourir à des experts en toute sérénité.":
+        "Uptaskers has been designed to provide you with a safe and trusted environment. No compromise is made with your data and privacy, so you can develop your business and hire experts with peace of mind.",
       "Paiements Sécurisés": "Secure Payments",
       "Identités Vérifiées": "Verified Identities",
       "Confidentialité Protégée": "Privacy Protected",
       "1. Introduction": "1. Introduction",
-      "UpTaskers est la plateforme de référence pour la mise en relation entre professionnels qualifiés et clients. Cette politique explique comment nous recueillons, utilisons et protégeons vos informations personnelles.":
-        "UpTaskers is the leading platform for connecting qualified professionals and clients. This policy explains how we collect, use, and protect your personal information.",
+      "Uptaskers est la plateforme de référence pour la mise en relation entre professionnels qualifiés et clients. Cette politique explique comment nous recueillons, utilisons et protégeons vos informations personnelles.":
+        "Uptaskers is the leading platform for connecting qualified professionals and clients. This policy explains how we collect, use, and protect your personal information.",
       "2. Nature du Service": "2. Nature of the Service",
-      "UpTaskers permet de trouver, de contacter et de travailler avec des experts dans de multiples domaines, en garantissant la sécurité des paiements et la qualité des échanges.":
-        "UpTaskers allows you to find, contact, and work with experts in multiple fields, ensuring secure payments and quality exchanges.",
+      "Uptaskers permet de trouver, de contacter et de travailler avec des experts dans de multiples domaines, en garantissant la sécurité des paiements et la qualité des échanges.":
+        "Uptaskers allows you to find, contact, and work with experts in multiple fields, ensuring secure payments and quality exchanges.",
       "3. Données Collectées": "3. Data Collected",
       "Nous pouvons recueillir les données suivantes :":
         "We may collect the following data:",
@@ -3160,8 +3160,8 @@ const resources = {
         "Your personal data is stored on highly secure servers",
       "Les transactions financières (paiement) sont cryptées de bout en bout (PCI-DSS)":
         "Financial transactions (payment) are end-to-end encrypted (PCI-DSS)",
-      "Authentification sécurisée pour protéger l'accès à votre compte UpTaskers":
-        "Secure authentication to protect access to your UpTaskers account",
+      "Authentification sécurisée pour protéger l'accès à votre compte Uptaskers":
+        "Secure authentication to protect access to your Uptaskers account",
       "6. Partage des Données": "6. Data Sharing",
       "Nous ne vendons en aucun cas vos données personnelles. Elles peuvent être partagées dans les cas strictement nécessaires suivants :":
         "We never sell your personal data. It may be shared in the following strictly necessary cases:",
@@ -3172,8 +3172,8 @@ const resources = {
       "Afin de se conformer à des obligations légales en vigueur":
         "In order to comply with applicable legal obligations",
       "7. Vos Droits": "7. Your Rights",
-      "En tant qu'utilisateur de UpTaskers, vous disposez des droits suivants (conformément à la loi ivoirienne sur la protection des données à caractère personnel) :":
-        "As a UpTaskers user, you have the following rights (in accordance with Ivorian data protection law):",
+      "En tant qu'utilisateur de Uptaskers, vous disposez des droits suivants (conformément à la loi ivoirienne sur la protection des données à caractère personnel) :":
+        "As a Uptaskers user, you have the following rights (in accordance with Ivorian data protection law):",
       "Accéder à vos données et en demander la copie":
         "Access your data and request a copy",
       "Rectifier ou mettre à jour vos informations inexactes":
@@ -3194,11 +3194,11 @@ const resources = {
       "Propriété Intellectuelle": "Intellectual Property",
       "La structure générale du site, ainsi que les textes, images animées ou non et tous les éléments composant le site sont la propriété exclusive de":
         "The general structure of the site, as well as the texts, animated or non-animated images, and all elements making up the site are the exclusive property of",
-      "Toute reproduction, représentation, modification, publication ou adaptation de tout ou partie des éléments du site est interdite sans l'autorisation écrite préalable de UpTaskers.":
+      "Toute reproduction, représentation, modification, publication ou adaptation de tout ou partie des éléments du site est interdite sans l'autorisation écrite préalable de Uptaskers.":
         "Any total or partial representation of this site by any means whatsoever, without the express permission of the website operator, is prohibited.",
       Responsabilité: "Responsibility",
-      "est une plateforme de mise en relation entre clients et prestataires. UpTaskers agit uniquement comme intermédiaire technique et ne réalise pas les prestations proposées sur la plateforme. En conséquence, UpTaskers ne peut être tenue responsable de la qualité, de l'exécution ou de la non-exécution des services fournis par les prestataires.":
-        "is a matchmaking platform between clients and service providers. UpTaskers acts solely as a technical intermediary and does not carry out the services offered on the platform. Consequently, UpTaskers cannot be held responsible for the quality, execution, or non-execution of the services provided by the service providers.",
+      "est une plateforme de mise en relation entre clients et prestataires. Uptaskers agit uniquement comme intermédiaire technique et ne réalise pas les prestations proposées sur la plateforme. En conséquence, Uptaskers ne peut être tenue responsable de la qualité, de l'exécution ou de la non-exécution des services fournis par les prestataires.":
+        "is a matchmaking platform between clients and service providers. Uptaskers acts solely as a technical intermediary and does not carry out the services offered on the platform. Consequently, Uptaskers cannot be held responsible for the quality, execution, or non-execution of the services provided by the service providers.",
 
       "Dernière mise à jour : 4 Juin 2026": "Last updated: June 4, 2026",
       "Acceptation des Conditions": "Acceptance of Terms",
@@ -3242,8 +3242,8 @@ const resources = {
       "Se connecter": "Conecte-se",
       "Connectez-vous avec": "Conecte-se com",
       "l'excellence.": "a excelência.",
-      "Notre plateforme révolutionne la mise en relation entre professionnels et clients. Que vous ayez besoin d'un expert pour une mission ponctuelle ou que vous cherchiez à développer votre clientèle, UpTaskers crée un environnement de confiance.":
-        "Nossa plataforma revoluciona a conexão entre profissionais e clientes. Se você precisa de um especialista para uma missão única ou está procurando desenvolver sua clientela, o UpTaskers cria um ambiente de confiança.",
+      "Notre plateforme révolutionne la mise en relation entre professionnels et clients. Que vous ayez besoin d'un expert pour une mission ponctuelle ou que vous cherchiez à développer votre clientèle, Uptaskers crée un environnement de confiance.":
+        "Nossa plataforma revoluciona a conexão entre profissionais e clientes. Se você precisa de um especialista para uma missão única ou está procurando desenvolver sua clientela, o Uptaskers cria um ambiente de confiança.",
       Commencer: "Começar",
       "Une mise en relation rapide et simplifiée.":
         "Uma conexão rápida e simplificada.",
@@ -3257,16 +3257,16 @@ const resources = {
       "S'inscrire": "Inscrever-se",
       Conçu: "Projetado",
       "pour exceller.": "para se destacar.",
-      "La vocation de UpTaskers est simple : vous faire gagner du temps en vous offrant un accès instantané aux meilleurs talents de votre région.":
-        "A vocação do UpTaskers é simples: economizar seu tempo oferecendo acesso instantâneo aos melhores talentos da sua região.",
+      "La vocation de Uptaskers est simple : vous faire gagner du temps en vous offrant un accès instantané aux meilleurs talents de votre région.":
+        "A vocação do Uptaskers é simples: economizar seu tempo oferecendo acesso instantâneo aos melhores talentos da sua região.",
       "Nous combinons l'efficacité d'une plateforme moderne à l'expertise de professionnels vérifiés, pour que chaque service rendu soit une expérience parfaitement fluide.":
         "Combinamos a eficiência de uma plataforma moderna com a experiência de profissionais verificados, para que cada serviço prestado seja uma experiência perfeitamente fluida.",
       "Réseau Fiable": "Rede Confiável",
       "Des talents": "Talentos",
       "certifiés.": "certificados.",
       "Profils vérifiés": "Perfis verificados",
-      "Chaque prestataire sur UpTaskers passe par un processus de vérification d'identité approfondi pour garantir votre sécurité.":
-        "Cada fornecedor no UpTaskers passa por um processo minucioso de verificação de identidade para garantir sua segurança.",
+      "Chaque prestataire sur Uptaskers passe par un processus de vérification d'identité approfondi pour garantir votre sécurité.":
+        "Cada fornecedor no Uptaskers passa por um processo minucioso de verificação de identidade para garantir sua segurança.",
       "Avis authentiques": "Avaliações autênticas",
       "Lisez les retours d'expérience réels. Seuls les clients ayant utilisé les services peuvent laisser un avis.":
         "Leia comentários reais. Apenas os clientes que usaram os serviços podem deixar uma avaliação.",
@@ -3370,7 +3370,7 @@ const resources = {
       Peinture: "Pintura",
       Vétérinaire: "Veterinário",
       "Agent immobilier": "Agente imobiliário",
-      "Journal UpTaskers": "Jornal UpTaskers",
+      "Journal Uptaskers": "Jornal Uptaskers",
       "Guides, astuces et conseils pour clients et professionnels":
         "Guias, dicas e conselhos para clientes e profissionais",
       "Lire la suite": "Ler mais",
@@ -3381,16 +3381,16 @@ const resources = {
       "Découvrir nos services": "Descubra os nossos serviços",
       "Découvrez les tendances actuelles et les domaines les plus demandés par nos clients pour optimiser votre profil et saisir de nouvelles opportunités.":
         "Descubra as tendências atuais e as áreas mais procuradas pelos nossos clientes para otimizar o seu perfil e aproveitar novas oportunidades.",
-      "UpTaskers facilite la rencontre entre clients et professionnels qualifiés pour des collaborations simples, rapides et efficaces.":
-        "A UpTaskers facilita o encontro entre clientes e profissionais qualificados para colaborações simples, rápidas e eficazes.",
+      "Uptaskers facilite la rencontre entre clients et professionnels qualifiés pour des collaborations simples, rapides et efficaces.":
+        "A Uptaskers facilita o encontro entre clientes e profissionais qualificados para colaborações simples, rápidas e eficazes.",
       "Que vous soyez une entreprise à la recherche d'une expertise précise ou un particulier ayant besoin d'un coup de main, notre plateforme vous connecte aux meilleurs talents locaux.":
         "Seja você uma empresa em busca de uma experiência específica ou um indivíduo que precisa de uma mão, nossa plataforma conecta você aos melhores talentos locais.",
       "Avis des utilisateurs et statistiques":
         "Avaliações de usuários e estatísticas",
-      "Découvrez ce que notre communauté pense de UpTaskers et rejoignez nos milliers d'utilisateurs actifs.":
-        "Descubra o que nossa comunidade pensa da UpTaskers e junte-se aos nossos milhares de usuários ativos.",
-      "Avec plus de 10 000 utilisateurs et 5 000 professionnels inscrits, UpTaskers est fier de maintenir un taux de satisfaction de 98% sur plus de 25 000 missions réalisées.":
-        "Com mais de 10.000 usuários e 5.000 profissionais inscritos, a UpTaskers tem o orgulho de manter uma taxa de satisfação de 98% em mais de 25.000 missões concluídas.",
+      "Découvrez ce que notre communauté pense de Uptaskers et rejoignez nos milliers d'utilisateurs actifs.":
+        "Descubra o que nossa comunidade pensa da Uptaskers e junte-se aos nossos milhares de usuários ativos.",
+      "Avec plus de 10 000 utilisateurs et 5 000 professionnels inscrits, Uptaskers est fier de maintenir un taux de satisfaction de 98% sur plus de 25 000 missions réalisées.":
+        "Com mais de 10.000 usuários e 5.000 profissionais inscritos, a Uptaskers tem o orgulho de manter uma taxa de satisfação de 98% em mais de 25.000 missões concluídas.",
       "Chaque freelance est sélectionné avec une extrême précision, garantissant un niveau d'expertise maximal et une intégration parfaite dans vos équipes.":
         "Cada freelance é selecionado com extrema precisão, garantindo o máximo nível de experiência e integração perfeita em suas equipes.",
       "Objectif 2030": "Objetivo 2030",
@@ -3410,8 +3410,8 @@ const resources = {
       Ressources: "Recursos",
       "Avis clients": "Avaliações de clientes",
       "Vérification des profils": "Verificação de perfis",
-      "Garantie UpTaskers": "Garantia UpTaskers",
-      "À propos de UpTaskers": "Sobre a UpTaskers",
+      "Garantie Uptaskers": "Garantia Uptaskers",
+      "À propos de Uptaskers": "Sobre a Uptaskers",
       "Nous contacter": "Contate-nos",
       "Support client": "Suporte ao cliente",
       "Conditions d'utilisation": "Termos de uso",
@@ -3442,8 +3442,8 @@ const resources = {
       Plateau: "Plateau",
       "Abidjan, Côte d'Ivoire": "Abidjã, Costa do Marfim",
       "Téléchargez notre application": "Baixe nosso app",
-      "Emportez UpTaskers partout avec vous. Gérez vos projets, échangez avec des pros et suivez l'avancement de vos demandes depuis votre mobile.":
-        "Leve o UpTaskers com você para qualquer lugar. Gerencie seus projetos, converse com profissionais e acompanhe o andamento de suas solicitações no seu celular.",
+      "Emportez Uptaskers partout avec vous. Gérez vos projets, échangez avec des pros et suivez l'avancement de vos demandes depuis votre mobile.":
+        "Leve o Uptaskers com você para qualquer lugar. Gerencie seus projetos, converse com profissionais e acompanhe o andamento de suas solicitações no seu celular.",
       "Centre de ressources": "Centro de recursos",
       "Outils et guides pour": "Ferramentas e guias para",
       "réussir.": "ter sucesso.",
@@ -3474,14 +3474,14 @@ const resources = {
       "Les meilleures stratégies pour fidéliser votre clientèle et développer votre e-réputation.":
         "As melhores estratégias para fidelizar clientes e desenvolver a sua e-reputação.",
       "Formations Vidéo": "Treinamentos em Vídeo",
-      "Apprenez à maîtriser toutes les fonctionnalités de UpTaskers en quelques minutes grâce à nos tutoriels interactifs.":
-        "Aprenda a dominar todos os recursos do UpTaskers em minutos, graças aos nossos tutoriais interativos.",
+      "Apprenez à maîtriser toutes les fonctionnalités de Uptaskers en quelques minutes grâce à nos tutoriels interactifs.":
+        "Aprenda a dominar todos os recursos do Uptaskers em minutos, graças aos nossos tutoriais interativos.",
       "Voir les tutoriels": "Ver os tutoriais",
       "Formation vidéo": "Treinamento em vídeo",
       "À propos de nous": "Sobre nós",
-      "Découvrez UpTaskers": "Descubra a UpTaskers",
-      "Bienvenue sur UpTaskers, une plateforme dédiée à la mise en relation entre particuliers, entreprises et professionnels qualifiés.":
-        "Bem-vindo ao UpTaskers, uma plataforma dedicada a conectar indivíduos, empresas e profissionais qualificados.",
+      "Découvrez Uptaskers": "Descubra a Uptaskers",
+      "Bienvenue sur Uptaskers, une plateforme dédiée à la mise en relation entre particuliers, entreprises et professionnels qualifiés.":
+        "Bem-vindo ao Uptaskers, uma plataforma dedicada a conectar indivíduos, empresas e profissionais qualificados.",
       "Qui sommes-nous ?": "Quem somos?",
       "Notre mission est simple : permettre à chacun de trouver rapidement des prestataires compétents et de confiance pour répondre à ses besoins, tout en offrant aux professionnels une opportunité de développer leur activité et de gagner en visibilité.":
         "A nossa missão é simples: permitir que todos encontrem rapidamente prestadores de serviços competentes e de confiança para satisfazer as suas necessidades, ao mesmo tempo que oferecemos aos profissionais a oportunidade de desenvolver os seus negócios e ganhar visibilidade.",
@@ -3549,8 +3549,8 @@ const resources = {
       "Avantages Exclusifs": "Benefícios Exclusivos",
       "Maximisez votre ": "Maximize o seu ",
       "impact.": "impacto.",
-      "Que vous soyez un professionnel cherchant à développer sa clientèle ou un particulier en quête d'experts de confiance, UpTaskers vous offre les meilleurs outils pour réussir.":
-        "Quer seja um profissional a procurar desenvolver a sua clientela ou um particular à procura de especialistas de confiança, a UpTaskers oferece-lhe as melhores ferramentas para ter sucesso.",
+      "Que vous soyez un professionnel cherchant à développer sa clientèle ou un particulier en quête d'experts de confiance, Uptaskers vous offre les meilleurs outils pour réussir.":
+        "Quer seja um profissional a procurar desenvolver a sua clientela ou um particular à procura de especialistas de confiança, a Uptaskers oferece-lhe as melhores ferramentas para ter sucesso.",
       "Développez votre activité": "Desenvolva o seu negócio",
       "Accédez à une large base de clients qualifiés et augmentez votre chiffre d'affaires sans effort de prospection.":
         "Aceda a uma grande base de clientes qualificados e aumente o seu volume de negócios sem esforço de prospeção.",
@@ -3573,7 +3573,7 @@ const resources = {
         "Pronto para libertar o seu potencial?",
       "Rejoignez la plateforme qui transforme la façon dont les professionnels et les clients collaborent.":
         "Junte-se à plataforma que transforma a forma como profissionais e clientes colaboram.",
-      "Rejoindre UpTaskers maintenant": "Junte-se à UpTaskers agora",
+      "Rejoindre Uptaskers maintenant": "Junte-se à Uptaskers agora",
       "Tendances du mois": "Tendências do mês",
       "Les catégories les plus utilisées": "Categorias mais utilizadas",
       "Découvrez les services les plus populaires ce mois-ci et trouvez l'expert idéal.":
@@ -3592,8 +3592,8 @@ const resources = {
       "Technicien IT": "Técnico de TI",
       avis: "avaliações",
       "Voir le profil": "Ver perfil",
-      "Déjà plus de 10 000 clients et 5 000 professionnels ont franchi le pas ! Avec 25 000 missions réussies et 98 % de satisfaction, UpTaskers est la référence incontournable de votre quotidien.":
-        "Já mais de 10.000 clientes e 5.000 profissionais deram o salto! Com 25.000 missões de sucesso e 98% de satisfação, a UpTaskers é a referência incontornável do seu quotidiano.",
+      "Déjà plus de 10 000 clients et 5 000 professionnels ont franchi le pas ! Avec 25 000 missions réussies et 98 % de satisfaction, Uptaskers est la référence incontournable de votre quotidien.":
+        "Já mais de 10.000 clientes e 5.000 profissionais deram o salto! Com 25.000 missões de sucesso e 98% de satisfação, a Uptaskers é a referência incontornável do seu quotidiano.",
       "Découvrez nos services": "Descubra nossos serviços",
       "Note moyenne basée sur": "Classificação média baseada em",
       "+12,000 avis certifiés": "+12.000 avaliações certificadas",
@@ -3726,7 +3726,7 @@ const resources = {
   AR: {
     translation: {
       "Bienvenue sur la page": "مرحبًا بك في صفحة",
-      "Cette section de UpTaskers est actuellement en cours de développement.": "هذا القسم من UpTaskers قيد التطوير حاليًا.",
+      "Cette section de Uptaskers est actuellement en cours de développement.": "هذا القسم من Uptaskers قيد التطوير حاليًا.",
       "Notre plateforme évolue continuellement pour vous offrir la meilleure expérience. Restez à l'écoute pour les mises à jour alors que nous construisons cette ressource complète.": "تتطور منصتنا باستمرار لتزويدك بأفضل تجربة. ابق على اطلاع بالتحديثات بينما نقوم ببناء هذا المورد الشامل.",
 
       "Légal & Confidentialité": "Legal & Privacy",
@@ -3738,17 +3738,17 @@ const resources = {
         "Contact our privacy team:",
       "Engagement de Confiance": "Commitment to Trust",
       "Votre Sécurité Avant Tout": "Your Security Above All",
-      "UpTaskers a été pensé et conçu pour vous offrir un environnement sûr et de confiance. Aucun compromis n'est fait avec vos données et votre confidentialité, pour que vous puissiez développer votre activité et recourir à des experts en toute sérénité.":
-        "UpTaskers has been designed to provide you with a safe and trusted environment. No compromise is made with your data and privacy, so you can develop your business and hire experts with peace of mind.",
+      "Uptaskers a été pensé et conçu pour vous offrir un environnement sûr et de confiance. Aucun compromis n'est fait avec vos données et votre confidentialité, pour que vous puissiez développer votre activité et recourir à des experts en toute sérénité.":
+        "Uptaskers has been designed to provide you with a safe and trusted environment. No compromise is made with your data and privacy, so you can develop your business and hire experts with peace of mind.",
       "Paiements Sécurisés": "Secure Payments",
       "Identités Vérifiées": "Verified Identities",
       "Confidentialité Protégée": "Privacy Protected",
       "1. Introduction": "1. Introduction",
-      "UpTaskers est la plateforme de référence pour la mise en relation entre professionnels qualifiés et clients. Cette politique explique comment nous recueillons, utilisons et protégeons vos informations personnelles.":
-        "UpTaskers is the leading platform for connecting qualified professionals and clients. This policy explains how we collect, use, and protect your personal information.",
+      "Uptaskers est la plateforme de référence pour la mise en relation entre professionnels qualifiés et clients. Cette politique explique comment nous recueillons, utilisons et protégeons vos informations personnelles.":
+        "Uptaskers is the leading platform for connecting qualified professionals and clients. This policy explains how we collect, use, and protect your personal information.",
       "2. Nature du Service": "2. Nature of the Service",
-      "UpTaskers permet de trouver, de contacter et de travailler avec des experts dans de multiples domaines, en garantissant la sécurité des paiements et la qualité des échanges.":
-        "UpTaskers allows you to find, contact, and work with experts in multiple fields, ensuring secure payments and quality exchanges.",
+      "Uptaskers permet de trouver, de contacter et de travailler avec des experts dans de multiples domaines, en garantissant la sécurité des paiements et la qualité des échanges.":
+        "Uptaskers allows you to find, contact, and work with experts in multiple fields, ensuring secure payments and quality exchanges.",
       "3. Données Collectées": "3. Data Collected",
       "Nous pouvons recueillir les données suivantes :":
         "We may collect the following data:",
@@ -3780,8 +3780,8 @@ const resources = {
         "Your personal data is stored on highly secure servers",
       "Les transactions financières (paiement) sont cryptées de bout en bout (PCI-DSS)":
         "Financial transactions (payment) are end-to-end encrypted (PCI-DSS)",
-      "Authentification sécurisée pour protéger l'accès à votre compte UpTaskers":
-        "Secure authentication to protect access to your UpTaskers account",
+      "Authentification sécurisée pour protéger l'accès à votre compte Uptaskers":
+        "Secure authentication to protect access to your Uptaskers account",
       "6. Partage des Données": "6. Data Sharing",
       "Nous ne vendons en aucun cas vos données personnelles. Elles peuvent être partagées dans les cas strictement nécessaires suivants :":
         "We never sell your personal data. It may be shared in the following strictly necessary cases:",
@@ -3792,8 +3792,8 @@ const resources = {
       "Afin de se conformer à des obligations légales en vigueur":
         "In order to comply with applicable legal obligations",
       "7. Vos Droits": "7. Your Rights",
-      "En tant qu'utilisateur de UpTaskers, vous disposez des droits suivants (conformément à la loi ivoirienne sur la protection des données à caractère personnel) :":
-        "As a UpTaskers user, you have the following rights (in accordance with Ivorian data protection law):",
+      "En tant qu'utilisateur de Uptaskers, vous disposez des droits suivants (conformément à la loi ivoirienne sur la protection des données à caractère personnel) :":
+        "As a Uptaskers user, you have the following rights (in accordance with Ivorian data protection law):",
       "Accéder à vos données et en demander la copie":
         "Access your data and request a copy",
       "Rectifier ou mettre à jour vos informations inexactes":
@@ -3814,11 +3814,11 @@ const resources = {
       "Propriété Intellectuelle": "Intellectual Property",
       "La structure générale du site, ainsi que les textes, images animées ou non et tous les éléments composant le site sont la propriété exclusive de":
         "The general structure of the site, as well as the texts, animated or non-animated images, and all elements making up the site are the exclusive property of",
-      "Toute reproduction, représentation, modification, publication ou adaptation de tout ou partie des éléments du site est interdite sans l'autorisation écrite préalable de UpTaskers.":
+      "Toute reproduction, représentation, modification, publication ou adaptation de tout ou partie des éléments du site est interdite sans l'autorisation écrite préalable de Uptaskers.":
         "Any total or partial representation of this site by any means whatsoever, without the express permission of the website operator, is prohibited.",
       Responsabilité: "Responsibility",
-      "est une plateforme de mise en relation entre clients et prestataires. UpTaskers agit uniquement comme intermédiaire technique et ne réalise pas les prestations proposées sur la plateforme. En conséquence, UpTaskers ne peut être tenue responsable de la qualité, de l'exécution ou de la non-exécution des services fournis par les prestataires.":
-        "is a matchmaking platform between clients and service providers. UpTaskers acts solely as a technical intermediary and does not carry out the services offered on the platform. Consequently, UpTaskers cannot be held responsible for the quality, execution, or non-execution of the services provided by the service providers.",
+      "est une plateforme de mise en relation entre clients et prestataires. Uptaskers agit uniquement comme intermédiaire technique et ne réalise pas les prestations proposées sur la plateforme. En conséquence, Uptaskers ne peut être tenue responsable de la qualité, de l'exécution ou de la non-exécution des services fournis par les prestataires.":
+        "is a matchmaking platform between clients and service providers. Uptaskers acts solely as a technical intermediary and does not carry out the services offered on the platform. Consequently, Uptaskers cannot be held responsible for the quality, execution, or non-execution of the services provided by the service providers.",
 
       "Dernière mise à jour : 4 Juin 2026": "Last updated: June 4, 2026",
       "Acceptation des Conditions": "Acceptance of Terms",
@@ -3862,8 +3862,8 @@ const resources = {
       "Se connecter": "تسجيل الدخول",
       "Connectez-vous avec": "تواصل مع",
       "l'excellence.": "التميز.",
-      "Notre plateforme révolutionne la mise en relation entre professionnels et clients. Que vous ayez besoin d'un expert pour une mission ponctuelle ou que vous cherchiez à développer votre clientèle, UpTaskers crée un environnement de confiance.":
-        "تحدث منصتنا ثورة في التواصل بين المحترفين والعملاء. سواء كنت بحاجة إلى خبير لمهمة لمرة واحدة أو تتطلع إلى تطوير قاعدة عملائك، فإن UpTaskers يخلق بيئة من الثقة.",
+      "Notre plateforme révolutionne la mise en relation entre professionnels et clients. Que vous ayez besoin d'un expert pour une mission ponctuelle ou que vous cherchiez à développer votre clientèle, Uptaskers crée un environnement de confiance.":
+        "تحدث منصتنا ثورة في التواصل بين المحترفين والعملاء. سواء كنت بحاجة إلى خبير لمهمة لمرة واحدة أو تتطلع إلى تطوير قاعدة عملائك، فإن Uptaskers يخلق بيئة من الثقة.",
       Commencer: "البدء",
       "Une mise en relation rapide et simplifiée.": "اتصال سريع ومبسط.",
       "Des profils vérifiés et des avis authentiques.":
@@ -3876,16 +3876,16 @@ const resources = {
       "S'inscrire": "اشترك",
       Conçu: "مصمم",
       "pour exceller.": "للتفوق.",
-      "La vocation de UpTaskers est simple : vous faire gagner du temps en vous offrant un accès instantané aux meilleurs talents de votre région.":
-        "مهمة UpTaskers بسيطة: توفير وقتك من خلال تقديم وصول فوري لأفضل المواهب في منطقتك.",
+      "La vocation de Uptaskers est simple : vous faire gagner du temps en vous offrant un accès instantané aux meilleurs talents de votre région.":
+        "مهمة Uptaskers بسيطة: توفير وقتك من خلال تقديم وصول فوري لأفضل المواهب في منطقتك.",
       "Nous combinons l'efficacité d'une plateforme moderne à l'expertise de professionnels vérifiés, pour que chaque service rendu soit une expérience parfaitement fluide.":
         "نحن نجمع بين كفاءة منصة حديثة وخبرة محترفين معتمدين، لتكون كل خدمة تجربة سلسة تمامًا.",
       "Réseau Fiable": "شبكة موثوقة",
       "Des talents": "مواهب",
       "certifiés.": "معتمدة.",
       "Profils vérifiés": "ملفات شخصية موثقة",
-      "Chaque prestataire sur UpTaskers passe par un processus de vérification d'identité approfondi pour garantir votre sécurité.":
-        "يمر كل مزود على UpTaskers بعملية شاملة للتحقق من الهوية لضمان أمانك.",
+      "Chaque prestataire sur Uptaskers passe par un processus de vérification d'identité approfondi pour garantir votre sécurité.":
+        "يمر كل مزود على Uptaskers بعملية شاملة للتحقق من الهوية لضمان أمانك.",
       "Avis authentiques": "مراجعات حقيقية",
       "Lisez les retours d'expérience réels. Seuls les clients ayant utilisé les services peuvent laisser un avis.":
         "اقرأ التعليقات الحقيقية. فقط العملاء الذين استخدموا الخدمات يمكنهم ترك تقييم.",
@@ -3989,7 +3989,7 @@ const resources = {
       Peinture: "دهان",
       Vétérinaire: "بيطري",
       "Agent immobilier": "وكيل عقارات",
-      "Journal UpTaskers": "مجلة UpTaskers",
+      "Journal Uptaskers": "مجلة Uptaskers",
       "Guides, astuces et conseils pour clients et professionnels":
         "أدلة ونصائح وإرشادات للعملاء والمحترفين",
       "Lire la suite": "اقرأ المزيد",
@@ -4000,15 +4000,15 @@ const resources = {
       "Découvrir nos services": "اكتشف خدماتنا",
       "Découvrez les tendances actuelles et les domaines les plus demandés par nos clients pour optimiser votre profil et saisir de nouvelles opportunités.":
         "اكتشف الاتجاهات الحالية والمجالات الأكثر طلبًا من قبل عملائنا لتحسين ملفك الشخصي واغتنام فرص جديدة.",
-      "UpTaskers facilite la rencontre entre clients et professionnels qualifiés pour des collaborations simples, rapides et efficaces.":
-        "تسهل UpTaskers اللقاء بين العملاء والمحترفين المؤهلين لتعاون بسيط وسريع وفعال.",
+      "Uptaskers facilite la rencontre entre clients et professionnels qualifiés pour des collaborations simples, rapides et efficaces.":
+        "تسهل Uptaskers اللقاء بين العملاء والمحترفين المؤهلين لتعاون بسيط وسريع وفعال.",
       "Que vous soyez une entreprise à la recherche d'une expertise précise ou un particulier ayant besoin d'un coup de main, notre plateforme vous connecte aux meilleurs talents locaux.":
         "سواء كنت شركة تبحث عن خبرة محددة أو فردًا يحتاج إلى مساعدة، فإن منصتنا تربطك بأفضل المواهب المحلية.",
       "Avis des utilisateurs et statistiques": "مراجعات المستخدمين والإحصائيات",
-      "Découvrez ce que notre communauté pense de UpTaskers et rejoignez nos milliers d'utilisateurs actifs.":
-        "اكتشف ما يعتقده مجتمعنا عن UpTaskers وانضم إلى آلاف المستخدمين النشطين لدينا.",
-      "Avec plus de 10 000 utilisateurs et 5 000 professionnels inscrits, UpTaskers est fier de maintenir un taux de satisfaction de 98% sur plus de 25 000 missions réalisées.":
-        "مع وجود أكثر من 10000 مستخدم و 5000 محترف مسجل، تفخر UpTaskers بالحفاظ على معدل رضا يبلغ 98٪ في أكثر من 25000 مهمة منجزة.",
+      "Découvrez ce que notre communauté pense de Uptaskers et rejoignez nos milliers d'utilisateurs actifs.":
+        "اكتشف ما يعتقده مجتمعنا عن Uptaskers وانضم إلى آلاف المستخدمين النشطين لدينا.",
+      "Avec plus de 10 000 utilisateurs et 5 000 professionnels inscrits, Uptaskers est fier de maintenir un taux de satisfaction de 98% sur plus de 25 000 missions réalisées.":
+        "مع وجود أكثر من 10000 مستخدم و 5000 محترف مسجل، تفخر Uptaskers بالحفاظ على معدل رضا يبلغ 98٪ في أكثر من 25000 مهمة منجزة.",
       "Chaque freelance est sélectionné avec une extrême précision, garantissant un niveau d'expertise maximal et une intégration parfaite dans vos équipes.":
         "يتم اختيار كل مستقل بدقة متناهية، مما يضمن أقصى مستوى من الخبرة والاندماج المثالي في فرقك.",
       "Objectif 2030": "هدف 2030",
@@ -4028,8 +4028,8 @@ const resources = {
       Ressources: "الموارد",
       "Avis clients": "آراء العملاء",
       "Vérification des profils": "التحقق من الملفات الشخصية",
-      "Garantie UpTaskers": "ضمان UpTaskers",
-      "À propos de UpTaskers": "نبذة عن UpTaskers",
+      "Garantie Uptaskers": "ضمان Uptaskers",
+      "À propos de Uptaskers": "نبذة عن Uptaskers",
       "Nous contacter": "اتصل بنا",
       "Support client": "دعم العملاء",
       "Conditions d'utilisation": "شروط الاستخدام",
@@ -4061,8 +4061,8 @@ const resources = {
       Plateau: "بلاتو",
       "Abidjan, Côte d'Ivoire": "أبيدجان، ساحل العاج",
       "Téléchargez notre application": "حمل تطبيقنا",
-      "Emportez UpTaskers partout avec vous. Gérez vos projets, échangez avec des pros et suivez l'avancement de vos demandes depuis votre mobile.":
-        "خذ UpTaskers معك في كل مكان. أدر مشاريعك، تواصل مع المحترفين، وتابع تقدم طلباتك من هاتفك المحمول.",
+      "Emportez Uptaskers partout avec vous. Gérez vos projets, échangez avec des pros et suivez l'avancement de vos demandes depuis votre mobile.":
+        "خذ Uptaskers معك في كل مكان. أدر مشاريعك، تواصل مع المحترفين، وتابع تقدم طلباتك من هاتفك المحمول.",
       "Centre de ressources": "مركز الموارد",
       "Outils et guides pour": "أدوات وأدلة لـ",
       "réussir.": "النجاح.",
@@ -4093,14 +4093,14 @@ const resources = {
       "Les meilleures stratégies pour fidéliser votre clientèle et développer votre e-réputation.":
         "أفضل الاستراتيجيات لبناء ولاء العملاء وتطوير سمعتك الإلكترونية.",
       "Formations Vidéo": "تدريب عبر الفيديو",
-      "Apprenez à maîtriser toutes les fonctionnalités de UpTaskers en quelques minutes grâce à nos tutoriels interactifs.":
-        "تعلم إتقان جميع ميزات UpTaskers في بضع دقائق بفضل برامجنا التعليمية التفاعلية.",
+      "Apprenez à maîtriser toutes les fonctionnalités de Uptaskers en quelques minutes grâce à nos tutoriels interactifs.":
+        "تعلم إتقان جميع ميزات Uptaskers في بضع دقائق بفضل برامجنا التعليمية التفاعلية.",
       "Voir les tutoriels": "عرض الدروس المتاحة",
       "Formation vidéo": "تدريب عبر الفيديو",
       "À propos de nous": "معلومات عنا",
-      "Découvrez UpTaskers": "اكتشف UpTaskers",
-      "Bienvenue sur UpTaskers, une plateforme dédiée à la mise en relation entre particuliers, entreprises et professionnels qualifiés.":
-        "مرحبًا بك في UpTaskers، منصة مخصصة لربط الأفراد والشركات والمحترفين المؤهلين.",
+      "Découvrez Uptaskers": "اكتشف Uptaskers",
+      "Bienvenue sur Uptaskers, une plateforme dédiée à la mise en relation entre particuliers, entreprises et professionnels qualifiés.":
+        "مرحبًا بك في Uptaskers، منصة مخصصة لربط الأفراد والشركات والمحترفين المؤهلين.",
       "Qui sommes-nous ?": "من نحن؟",
       "Notre mission est simple : permettre à chacun de trouver rapidement des prestataires compétents et de confiance pour répondre à ses besoins, tout en offrant aux professionnels une opportunité de développer leur activité et de gagner en visibilité.":
         "مهمتنا بسيطة: إتاحة الفرصة للجميع للعثور بسرعة على مقدمي خدمات أكفاء وموثوقين لتلبية احتياجاتهم، مع تزويد المحترفين بفرصة لتطوير أعمالهم واكتساب الرؤية.",
@@ -4165,8 +4165,8 @@ const resources = {
       "Avantages Exclusifs": "مزايا حصرية",
       "Maximisez votre ": "تعظيم ",
       "impact.": "تأثيرك.",
-      "Que vous soyez un professionnel cherchant à développer sa clientèle ou un particulier en quête d'experts de confiance, UpTaskers vous offre les meilleurs outils pour réussir.":
-        "سواء كنت محترفًا يتطلع إلى تنمية قاعدة عملائه أو فردًا يبحث عن خبراء موثوقين، تقدم لك UpTaskers أفضل الأدوات للنجاح.",
+      "Que vous soyez un professionnel cherchant à développer sa clientèle ou un particulier en quête d'experts de confiance, Uptaskers vous offre les meilleurs outils pour réussir.":
+        "سواء كنت محترفًا يتطلع إلى تنمية قاعدة عملائه أو فردًا يبحث عن خبراء موثوقين، تقدم لك Uptaskers أفضل الأدوات للنجاح.",
       "Développez votre activité": "طور عملك",
       "Accédez à une large base de clients qualifiés et augmentez votre chiffre d'affaires sans effort de prospection.":
         "قم بالوصول إلى قاعدة كبيرة من العملاء المؤهلين وزد مبيعاتك دون جهد تنقيب.",
@@ -4188,7 +4188,7 @@ const resources = {
       "Prêt à libérer votre potentiel ?": "هل أنت مستعد لإطلاق إمكاناتك؟",
       "Rejoignez la plateforme qui transforme la façon dont les professionnels et les clients collaborent.":
         "انضم إلى المنصة التي تحول طريقة تعاون المحترفين والعملاء.",
-      "Rejoindre UpTaskers maintenant": "انضم إلى UpTaskers الآن",
+      "Rejoindre Uptaskers maintenant": "انضم إلى Uptaskers الآن",
       "Tendances du mois": "اتجاهات الشهر",
       "Les catégories les plus utilisées": "الفئات الأكثر استخدامًا",
       "Découvrez les services les plus populaires ce mois-ci et trouvez l'expert idéal.":
@@ -4207,8 +4207,8 @@ const resources = {
       "Technicien IT": "فني تكنولوجيا المعلومات",
       avis: "مراجعات",
       "Voir le profil": "عرض الملف الشخصي",
-      "Déjà plus de 10 000 clients et 5 000 professionnels ont franchi le pas ! Avec 25 000 missions réussies et 98 % de satisfaction, UpTaskers est la référence incontournable de votre quotidien.":
-        "بالفعل اتخذ أكثر من 10000 عميل و 5000 محترف هذه الخطوة! مع 25000 مهمة ناجحة ورضا بنسبة 98٪، تعد UpTaskers المرجع الأساسي لحياتك اليومية.",
+      "Déjà plus de 10 000 clients et 5 000 professionnels ont franchi le pas ! Avec 25 000 missions réussies et 98 % de satisfaction, Uptaskers est la référence incontournable de votre quotidien.":
+        "بالفعل اتخذ أكثر من 10000 عميل و 5000 محترف هذه الخطوة! مع 25000 مهمة ناجحة ورضا بنسبة 98٪، تعد Uptaskers المرجع الأساسي لحياتك اليومية.",
       "Découvrez nos services": "اكتشف خدماتنا",
       "Note moyenne basée sur": "متوسط التقييم بناءً على",
       "+12,000 avis certifiés": "+12,000 مراجعة معتمدة",
@@ -4336,7 +4336,7 @@ const resources = {
   ZH: {
     translation: {
       "Bienvenue sur la page": "欢迎来到页面",
-      "Cette section de UpTaskers est actuellement en cours de développement.": "UpTaskers 的此部分目前正在开发中。",
+      "Cette section de Uptaskers est actuellement en cours de développement.": "Uptaskers 的此部分目前正在开发中。",
       "Notre plateforme évolue continuellement pour vous offrir la meilleure expérience. Restez à l'écoute pour les mises à jour alors que nous construisons cette ressource complète.": "我们的平台不断发展，以为您提供最佳体验。在我们构建这个全面的资源时，请继续关注更新。",
 
       "Légal & Confidentialité": "Legal & Privacy",
@@ -4348,17 +4348,17 @@ const resources = {
         "Contact our privacy team:",
       "Engagement de Confiance": "Commitment to Trust",
       "Votre Sécurité Avant Tout": "Your Security Above All",
-      "UpTaskers a été pensé et conçu pour vous offrir un environnement sûr et de confiance. Aucun compromis n'est fait avec vos données et votre confidentialité, pour que vous puissiez développer votre activité et recourir à des experts en toute sérénité.":
-        "UpTaskers has been designed to provide you with a safe and trusted environment. No compromise is made with your data and privacy, so you can develop your business and hire experts with peace of mind.",
+      "Uptaskers a été pensé et conçu pour vous offrir un environnement sûr et de confiance. Aucun compromis n'est fait avec vos données et votre confidentialité, pour que vous puissiez développer votre activité et recourir à des experts en toute sérénité.":
+        "Uptaskers has been designed to provide you with a safe and trusted environment. No compromise is made with your data and privacy, so you can develop your business and hire experts with peace of mind.",
       "Paiements Sécurisés": "Secure Payments",
       "Identités Vérifiées": "Verified Identities",
       "Confidentialité Protégée": "Privacy Protected",
       "1. Introduction": "1. Introduction",
-      "UpTaskers est la plateforme de référence pour la mise en relation entre professionnels qualifiés et clients. Cette politique explique comment nous recueillons, utilisons et protégeons vos informations personnelles.":
-        "UpTaskers is the leading platform for connecting qualified professionals and clients. This policy explains how we collect, use, and protect your personal information.",
+      "Uptaskers est la plateforme de référence pour la mise en relation entre professionnels qualifiés et clients. Cette politique explique comment nous recueillons, utilisons et protégeons vos informations personnelles.":
+        "Uptaskers is the leading platform for connecting qualified professionals and clients. This policy explains how we collect, use, and protect your personal information.",
       "2. Nature du Service": "2. Nature of the Service",
-      "UpTaskers permet de trouver, de contacter et de travailler avec des experts dans de multiples domaines, en garantissant la sécurité des paiements et la qualité des échanges.":
-        "UpTaskers allows you to find, contact, and work with experts in multiple fields, ensuring secure payments and quality exchanges.",
+      "Uptaskers permet de trouver, de contacter et de travailler avec des experts dans de multiples domaines, en garantissant la sécurité des paiements et la qualité des échanges.":
+        "Uptaskers allows you to find, contact, and work with experts in multiple fields, ensuring secure payments and quality exchanges.",
       "3. Données Collectées": "3. Data Collected",
       "Nous pouvons recueillir les données suivantes :":
         "We may collect the following data:",
@@ -4390,8 +4390,8 @@ const resources = {
         "Your personal data is stored on highly secure servers",
       "Les transactions financières (paiement) sont cryptées de bout en bout (PCI-DSS)":
         "Financial transactions (payment) are end-to-end encrypted (PCI-DSS)",
-      "Authentification sécurisée pour protéger l'accès à votre compte UpTaskers":
-        "Secure authentication to protect access to your UpTaskers account",
+      "Authentification sécurisée pour protéger l'accès à votre compte Uptaskers":
+        "Secure authentication to protect access to your Uptaskers account",
       "6. Partage des Données": "6. Data Sharing",
       "Nous ne vendons en aucun cas vos données personnelles. Elles peuvent être partagées dans les cas strictement nécessaires suivants :":
         "We never sell your personal data. It may be shared in the following strictly necessary cases:",
@@ -4402,8 +4402,8 @@ const resources = {
       "Afin de se conformer à des obligations légales en vigueur":
         "In order to comply with applicable legal obligations",
       "7. Vos Droits": "7. Your Rights",
-      "En tant qu'utilisateur de UpTaskers, vous disposez des droits suivants (conformément à la loi ivoirienne sur la protection des données à caractère personnel) :":
-        "As a UpTaskers user, you have the following rights (in accordance with Ivorian data protection law):",
+      "En tant qu'utilisateur de Uptaskers, vous disposez des droits suivants (conformément à la loi ivoirienne sur la protection des données à caractère personnel) :":
+        "As a Uptaskers user, you have the following rights (in accordance with Ivorian data protection law):",
       "Accéder à vos données et en demander la copie":
         "Access your data and request a copy",
       "Rectifier ou mettre à jour vos informations inexactes":
@@ -4424,11 +4424,11 @@ const resources = {
       "Propriété Intellectuelle": "Intellectual Property",
       "La structure générale du site, ainsi que les textes, images animées ou non et tous les éléments composant le site sont la propriété exclusive de":
         "The general structure of the site, as well as the texts, animated or non-animated images, and all elements making up the site are the exclusive property of",
-      "Toute reproduction, représentation, modification, publication ou adaptation de tout ou partie des éléments du site est interdite sans l'autorisation écrite préalable de UpTaskers.":
+      "Toute reproduction, représentation, modification, publication ou adaptation de tout ou partie des éléments du site est interdite sans l'autorisation écrite préalable de Uptaskers.":
         "Any total or partial representation of this site by any means whatsoever, without the express permission of the website operator, is prohibited.",
       Responsabilité: "Responsibility",
-      "est une plateforme de mise en relation entre clients et prestataires. UpTaskers agit uniquement comme intermédiaire technique et ne réalise pas les prestations proposées sur la plateforme. En conséquence, UpTaskers ne peut être tenue responsable de la qualité, de l'exécution ou de la non-exécution des services fournis par les prestataires.":
-        "is a matchmaking platform between clients and service providers. UpTaskers acts solely as a technical intermediary and does not carry out the services offered on the platform. Consequently, UpTaskers cannot be held responsible for the quality, execution, or non-execution of the services provided by the service providers.",
+      "est une plateforme de mise en relation entre clients et prestataires. Uptaskers agit uniquement comme intermédiaire technique et ne réalise pas les prestations proposées sur la plateforme. En conséquence, Uptaskers ne peut être tenue responsable de la qualité, de l'exécution ou de la non-exécution des services fournis par les prestataires.":
+        "is a matchmaking platform between clients and service providers. Uptaskers acts solely as a technical intermediary and does not carry out the services offered on the platform. Consequently, Uptaskers cannot be held responsible for the quality, execution, or non-execution of the services provided by the service providers.",
 
       "Dernière mise à jour : 4 Juin 2026": "Last updated: June 4, 2026",
       "Acceptation des Conditions": "Acceptance of Terms",
@@ -4472,8 +4472,8 @@ const resources = {
       "Se connecter": "登录",
       "Connectez-vous avec": "与连接",
       "l'excellence.": "卓越。",
-      "Notre plateforme révolutionne la mise en relation entre professionnels et clients. Que vous ayez besoin d'un expert pour une mission ponctuelle ou que vous cherchiez à développer votre clientèle, UpTaskers crée un environnement de confiance.":
-        "我们的平台彻底改变了专业人士与客户之间的联系。无论您需要某个临时任务的专家，还是希望建立客户群，UpTaskers都能创造一个值得信赖的环境。",
+      "Notre plateforme révolutionne la mise en relation entre professionnels et clients. Que vous ayez besoin d'un expert pour une mission ponctuelle ou que vous cherchiez à développer votre clientèle, Uptaskers crée un environnement de confiance.":
+        "我们的平台彻底改变了专业人士与客户之间的联系。无论您需要某个临时任务的专家，还是希望建立客户群，Uptaskers都能创造一个值得信赖的环境。",
       Commencer: "开始",
       "Une mise en relation rapide et simplifiée.": "快速而简化的建立联系。",
       "Des profils vérifiés et des avis authentiques.":
@@ -4486,16 +4486,16 @@ const resources = {
       "S'inscrire": "注册",
       Conçu: "专为",
       "pour exceller.": "卓越而设计。",
-      "La vocation de UpTaskers est simple : vous faire gagner du temps en vous offrant un accès instantané aux meilleurs talents de votre région.":
-        "UpTaskers的使命很简单：通过提供对您所在地区最优秀人才的即时访问，为您节省时间。",
+      "La vocation de Uptaskers est simple : vous faire gagner du temps en vous offrant un accès instantané aux meilleurs talents de votre région.":
+        "Uptaskers的使命很简单：通过提供对您所在地区最优秀人才的即时访问，为您节省时间。",
       "Nous combinons l'efficacité d'une plateforme moderne à l'expertise de professionnels vérifiés, pour que chaque service rendu soit une expérience parfaitement fluide.":
         "我们将现代平台的高效性与经过验证的专业人士的专业知识相结合，使每次服务都能带来极其顺畅的体验。",
       "Réseau Fiable": "可靠的网络",
       "Des talents": "认证",
       "certifiés.": "人才。",
       "Profils vérifiés": "已验证的资料",
-      "Chaque prestataire sur UpTaskers passe par un processus de vérification d'identité approfondi pour garantir votre sécurité.":
-        "UpTaskers上的每位服务提供商都要经过彻底的身份验证过程，以确保您的安全。",
+      "Chaque prestataire sur Uptaskers passe par un processus de vérification d'identité approfondi pour garantir votre sécurité.":
+        "Uptaskers上的每位服务提供商都要经过彻底的身份验证过程，以确保您的安全。",
       "Avis authentiques": "真实评论",
       "Lisez les retours d'expérience réels. Seuls les clients ayant utilisé les services peuvent laisser un avis.":
         "阅读真实的反馈。只有使用过服务的客户才能留下评论。",
@@ -4594,7 +4594,7 @@ const resources = {
       Peinture: "绘画",
       Vétérinaire: "兽医",
       "Agent immobilier": "房地产经纪人",
-      "Journal UpTaskers": "UpTaskers 日志",
+      "Journal Uptaskers": "Uptaskers 日志",
       "Guides, astuces et conseils pour clients et professionnels":
         "为客户和专业人士提供的指南、提示和建议",
       "Lire la suite": "阅读更多",
@@ -4604,15 +4604,15 @@ const resources = {
       "Découvrir nos services": "发现我们的服务",
       "Découvrez les tendances actuelles et les domaines les plus demandés par nos clients pour optimiser votre profil et saisir de nouvelles opportunités.":
         "发现当前趋势和我们客户最常请求的领域，以优化您的个人资料并抓住新机会。",
-      "UpTaskers facilite la rencontre entre clients et professionnels qualifiés pour des collaborations simples, rapides et efficaces.":
-        "UpTaskers 促进了客户与合格专业人员之间的会面，以实现简单、快速和有效的协作。",
+      "Uptaskers facilite la rencontre entre clients et professionnels qualifiés pour des collaborations simples, rapides et efficaces.":
+        "Uptaskers 促进了客户与合格专业人员之间的会面，以实现简单、快速和有效的协作。",
       "Que vous soyez une entreprise à la recherche d'une expertise précise ou un particulier ayant besoin d'un coup de main, notre plateforme vous connecte aux meilleurs talents locaux.":
         "无论您是寻找特定专业知识的公司，还是需要帮助的个人，我们的平台都可以让您与最佳本地人才建立联系。",
       "Avis des utilisateurs et statistiques": "用户评论和统计",
-      "Découvrez ce que notre communauté pense de UpTaskers et rejoignez nos milliers d'utilisateurs actifs.":
-        "发现我们的社区对 UpTaskers 的看法，加入我们成千上万的活跃用户中。",
-      "Avec plus de 10 000 utilisateurs et 5 000 professionnels inscrits, UpTaskers est fier de maintenir un taux de satisfaction de 98% sur plus de 25 000 missions réalisées.":
-        "UpTaskers 拥有超过 10,000 名用户和 5,000 名注册专业人员，我们很自豪在 25,000 多项完成的任务中保持了 98% 的满意度。",
+      "Découvrez ce que notre communauté pense de Uptaskers et rejoignez nos milliers d'utilisateurs actifs.":
+        "发现我们的社区对 Uptaskers 的看法，加入我们成千上万的活跃用户中。",
+      "Avec plus de 10 000 utilisateurs et 5 000 professionnels inscrits, Uptaskers est fier de maintenir un taux de satisfaction de 98% sur plus de 25 000 missions réalisées.":
+        "Uptaskers 拥有超过 10,000 名用户和 5,000 名注册专业人员，我们很自豪在 25,000 多项完成的任务中保持了 98% 的满意度。",
       "Chaque freelance est sélectionné avec une extrême précision, garantissant un niveau d'expertise maximal et une intégration parfaite dans vos équipes.":
         "每位自由职业者都经过极其精确的选择，以保证最高专业水平和完美融入您的团队。",
       "Objectif 2030": "目标 2030",
@@ -4632,8 +4632,8 @@ const resources = {
       Ressources: "资源",
       "Avis clients": "客户评价",
       "Vérification des profils": "个人资料验证",
-      "Garantie UpTaskers": "UpTaskers 保证",
-      "À propos de UpTaskers": "关于 UpTaskers",
+      "Garantie Uptaskers": "Uptaskers 保证",
+      "À propos de Uptaskers": "关于 Uptaskers",
       "Nous contacter": "联系我们",
       "Support client": "客户支持",
       "Conditions d'utilisation": "使用条款",
@@ -4664,8 +4664,8 @@ const resources = {
       Plateau: "Plateau",
       "Abidjan, Côte d'Ivoire": "阿比让，科特迪瓦",
       "Téléchargez notre application": "下载我们的应用程序",
-      "Emportez UpTaskers partout avec vous. Gérez vos projets, échangez avec des pros et suivez l'avancement de vos demandes depuis votre mobile.":
-        "随身携带 UpTaskers。通过您的手机管理您的项目、与专业人士交流并跟踪您的请求的进度。",
+      "Emportez Uptaskers partout avec vous. Gérez vos projets, échangez avec des pros et suivez l'avancement de vos demandes depuis votre mobile.":
+        "随身携带 Uptaskers。通过您的手机管理您的项目、与专业人士交流并跟踪您的请求的进度。",
       "Centre de ressources": "资源中心",
       "Outils et guides pour": "工具和指南，助您",
       "réussir.": "成功。",
@@ -4696,14 +4696,14 @@ const resources = {
       "Les meilleures stratégies pour fidéliser votre clientèle et développer votre e-réputation.":
         "建立客户忠诚度和发展您的电子声誉的最佳策略。",
       "Formations Vidéo": "视频培训",
-      "Apprenez à maîtriser toutes les fonctionnalités de UpTaskers en quelques minutes grâce à nos tutoriels interactifs.":
-        "通过我们的互动教程，在几分钟内学习掌握 UpTaskers 的所有功能。",
+      "Apprenez à maîtriser toutes les fonctionnalités de Uptaskers en quelques minutes grâce à nos tutoriels interactifs.":
+        "通过我们的互动教程，在几分钟内学习掌握 Uptaskers 的所有功能。",
       "Voir les tutoriels": "查看教程",
       "Formation vidéo": "视频培训",
       "À propos de nous": "关于我们",
-      "Découvrez UpTaskers": "探索 UpTaskers",
-      "Bienvenue sur UpTaskers, une plateforme dédiée à la mise en relation entre particuliers, entreprises et professionnels qualifiés.":
-        "欢迎来到 UpTaskers，这是一个致力于连接个人、公司和合格专业人士的平台。",
+      "Découvrez Uptaskers": "探索 Uptaskers",
+      "Bienvenue sur Uptaskers, une plateforme dédiée à la mise en relation entre particuliers, entreprises et professionnels qualifiés.":
+        "欢迎来到 Uptaskers，这是一个致力于连接个人、公司和合格专业人士的平台。",
       "Qui sommes-nous ?": "我们是谁？",
       "Notre mission est simple : permettre à chacun de trouver rapidement des prestataires compétents et de confiance pour répondre à ses besoins, tout en offrant aux professionnels une opportunité de développer leur activité et de gagner en visibilité.":
         "我们的使命很简单：让每个人都能快速找到有能力且值得信赖的服务提供商来满足他们的需求，同时为专业人士提供发展业务和提高知名度的机会。",
@@ -4766,8 +4766,8 @@ const resources = {
       "Avantages Exclusifs": "独家福利",
       "Maximisez votre ": "最大化您的",
       "impact.": "影响力。",
-      "Que vous soyez un professionnel cherchant à développer sa clientèle ou un particulier en quête d'experts de confiance, UpTaskers vous offre les meilleurs outils pour réussir.":
-        "无论您是希望发展客户群的专业人士，还是寻找可信赖专家的个人，UpTaskers 都能为您提供最优秀的成功工具。",
+      "Que vous soyez un professionnel cherchant à développer sa clientèle ou un particulier en quête d'experts de confiance, Uptaskers vous offre les meilleurs outils pour réussir.":
+        "无论您是希望发展客户群的专业人士，还是寻找可信赖专家的个人，Uptaskers 都能为您提供最优秀的成功工具。",
       "Développez votre activité": "发展您的业务",
       "Accédez à une large base de clients qualifiés et augmentez votre chiffre d'affaires sans effort de prospection.":
         "访问庞大的合格客户群，无需寻找客户即可增加您的营业额。",
@@ -4789,7 +4789,7 @@ const resources = {
       "Prêt à libérer votre potentiel ?": "准备好释放您的潜力了吗？",
       "Rejoignez la plateforme qui transforme la façon dont les professionnels et les clients collaborent.":
         "加入能够改变专业人士和客户合作方式的平台。",
-      "Rejoindre UpTaskers maintenant": "立即加入 UpTaskers",
+      "Rejoindre Uptaskers maintenant": "立即加入 Uptaskers",
       "Tendances du mois": "本月趋势",
       "Les catégories les plus utilisées": "最常用的类别",
       "Découvrez les services les plus populaires ce mois-ci et trouvez l'expert idéal.":
@@ -4808,8 +4808,8 @@ const resources = {
       "Technicien IT": "IT 技术员",
       avis: "评价",
       "Voir le profil": "查看个人资料",
-      "Déjà plus de 10 000 clients et 5 000 professionnels ont franchi le pas ! Avec 25 000 missions réussies et 98 % de satisfaction, UpTaskers est la référence incontournable de votre quotidien.":
-        "已经有超过 10,000 名客户和 5,000 名专业人士迈出了这一步！凭借 25,000 成功任务和 98% 的满意度，UpTaskers 是您日常生活的必备参考。",
+      "Déjà plus de 10 000 clients et 5 000 professionnels ont franchi le pas ! Avec 25 000 missions réussies et 98 % de satisfaction, Uptaskers est la référence incontournable de votre quotidien.":
+        "已经有超过 10,000 名客户和 5,000 名专业人士迈出了这一步！凭借 25,000 成功任务和 98% 的满意度，Uptaskers 是您日常生活的必备参考。",
       "Découvrez nos services": "了解我们的服务",
       "Note moyenne basée sur": "平均评分基于",
       "+12,000 avis certifiés": "+12,000 条认证评论",

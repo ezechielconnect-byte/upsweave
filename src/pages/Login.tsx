@@ -101,7 +101,7 @@ export default function Login({
           >
             <img
               src="/icone.png"
-              alt="UpTaskers Logo"
+              alt="Uptaskers Logo"
               className="w-16 h-16 md:w-20 md:h-20 object-contain mx-auto transition-transform hover:scale-110"
             />
           </div>

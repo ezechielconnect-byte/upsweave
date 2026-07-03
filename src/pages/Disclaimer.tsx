@@ -48,10 +48,10 @@ export default function Disclaimer({
                 {t("Propriété Intellectuelle")}
               </h2>
               <p className="mb-4">
-                {t("La structure générale du site, ainsi que les textes, images animées ou non et tous les éléments composant le site sont la propriété exclusive de")} <LogoText><strong>UpTaskers</strong></LogoText>.
+                {t("La structure générale du site, ainsi que les textes, images animées ou non et tous les éléments composant le site sont la propriété exclusive de")} <LogoText><strong>Uptaskers</strong></LogoText>.
               </p>
               <p className="mb-4">
-                <LogoText>{t("Toute reproduction, représentation, modification, publication ou adaptation de tout ou partie des éléments du site est interdite sans l'autorisation écrite préalable de UpTaskers.")}</LogoText>
+                <LogoText>{t("Toute reproduction, représentation, modification, publication ou adaptation de tout ou partie des éléments du site est interdite sans l'autorisation écrite préalable de Uptaskers.")}</LogoText>
               </p>
             </section>
 
@@ -60,7 +60,7 @@ export default function Disclaimer({
                 {t("Responsabilité")}
               </h2>
               <p className="mb-4">
-                <LogoText><strong>UpTaskers</strong> {t("est une plateforme de mise en relation entre clients et prestataires. UpTaskers agit uniquement comme intermédiaire technique et ne réalise pas les prestations proposées sur la plateforme. En conséquence, UpTaskers ne peut être tenue responsable de la qualité, de l'exécution ou de la non-exécution des services fournis par les prestataires.")}</LogoText>
+                <LogoText><strong>Uptaskers</strong> {t("est une plateforme de mise en relation entre clients et prestataires. Uptaskers agit uniquement comme intermédiaire technique et ne réalise pas les prestations proposées sur la plateforme. En conséquence, Uptaskers ne peut être tenue responsable de la qualité, de l'exécution ou de la non-exécution des services fournis par les prestataires.")}</LogoText>
               </p>
             </section>
           </div>

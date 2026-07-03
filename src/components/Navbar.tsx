@@ -80,7 +80,7 @@ export default function Navbar({
     { label: t("Accueil"), path: "/" },
     { label: t("Explorez nos catégories"), path: "/find" },
     { label: t("Notre mission"), path: "/jobs" },
-    { label: t("À propos de UpTaskers"), path: "/offer" },
+    { label: t("À propos de Uptaskers"), path: "/offer" },
   ];
 
   const isTransparent = isHome && !isScrolled && !isMobileMenuOpen;
@@ -102,7 +102,7 @@ export default function Navbar({
           >
             <img
               src="/icone.png"
-              alt="UpTaskers Logo"
+              alt="Uptaskers Logo"
               className="h-16 w-16 md:h-20 md:w-20 object-contain mr-2 transition-transform duration-300 group-hover:scale-105"
             />
             <span
@@ -112,7 +112,7 @@ export default function Navbar({
                   : "text-slate-900 group-hover:text-blue-600"
               }`}
             >
-              UpTaskers
+              Upsweave
             </span>
           </div>
 

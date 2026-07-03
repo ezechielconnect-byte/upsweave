@@ -29,7 +29,7 @@ export const getJournalArticles = (t: any): JournalArticle[] => [
     title: t("Avis des utilisateurs et statistiques"),
     date: t("20 Mai 2026"),
     excerpt: t(
-      "Découvrez ce que notre communauté pense de UpTaskers et rejoignez nos milliers d'utilisateurs actifs.",
+      "Découvrez ce que notre communauté pense de Uptaskers et rejoignez nos milliers d'utilisateurs actifs.",
     ),
     image:
       "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fm=webp&fit=crop&q=60&w=600",

@@ -116,7 +116,7 @@ export default function AvantagesPage({
               className="text-xl text-slate-600 font-medium leading-relaxed"
             >
               <LogoText>{t(
-                "Que vous soyez un professionnel cherchant à développer sa clientèle ou un particulier en quête d'experts de confiance, UpTaskers vous offre les meilleurs outils pour réussir.",
+                "Que vous soyez un professionnel cherchant à développer sa clientèle ou un particulier en quête d'experts de confiance, Uptaskers vous offre les meilleurs outils pour réussir.",
               )}</LogoText>
             </motion.p>
           </div>

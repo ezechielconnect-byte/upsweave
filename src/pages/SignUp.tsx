@@ -75,7 +75,7 @@ export default function SignUp({
           onClick={() => onNavigate("/")}
         >
           <span className="text-2xl font-bold tracking-tight text-slate-900">
-            <LogoText>UpTaskers</LogoText>
+            <LogoText>Uptaskers</LogoText>
           </span>
         </div>
 
